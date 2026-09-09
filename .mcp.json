@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "sleeper": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/sourknives/sleeper-mcp-server@af7fd5085f3a47e14a2783277b837de615bfb7bf",
+        "sleeper-mcp-server"
+      ],
+      "env": {}
+    }
+  }
+}
