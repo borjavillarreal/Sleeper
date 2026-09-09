@@ -9,6 +9,19 @@ projections, so it can tell you who has been good and who has been lucky — it
 cannot tell you who will score next Sunday. Treat its output as evidence for your
 own judgment, not as a start/sit oracle.
 
+## Before any of this runs
+
+Two preconditions, in order:
+
+1. **Egress.** `api.sleeper.app` and `api.sleeper.com` must be on the session's
+   network allowlist. See "Network access" in the [README](../README.md). Cloud
+   sessions at the default **Trusted** level cannot reach either, and every tool
+   returns `403 Forbidden` from the proxy — a policy denial, not a Sleeper error
+   and not an authentication problem.
+2. **A username.** Pass it to `get_user_leagues` to resolve the league ID that
+   every other tool takes. No password, no login, no token — the server holds no
+   credential-handling code at all.
+
 ## Supported end-to-end
 
 ### 1. Bench-points audit — the highest-value one

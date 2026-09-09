@@ -31,11 +31,42 @@ The server is read-only and unauthenticated — it wraps Sleeper's public API, s
 there is no token to configure. It also means it can only see public league
 data.
 
-### Network
+### No credentials required
 
-The server talks to `api.sleeper.app` and `api.sleeper.com`. Both must be
-reachable. In a sandboxed or proxied environment they have to be on the egress
-allowlist, or every tool call fails at connect time.
+The server sends no authentication of any kind — there is not a single
+token, cookie, header or password handled anywhere in its source. Sleeper's
+read API is public: league, roster, matchup and draft data for a league are
+served to anonymous callers. A Sleeper username is all that is ever needed,
+and it is used only as a lookup key to resolve a user ID.
+
+Never hand a Sleeper account password to this tool, to Claude, or to anything
+else. It would not be used, and it cannot unlock any data the public API does
+not already serve.
+
+### Network access
+
+The server talks to `api.sleeper.app` (league data) and `api.sleeper.com`
+(projections). Both must be reachable, or every tool call fails at connect
+time with `403 Forbidden` from the egress proxy.
+
+Claude Code cloud sessions are deny-by-default: the **Trusted** network level
+allows package registries, GitHub and cloud SDKs, and nothing else — Sleeper is
+not on that list. To use this server from a cloud session, open the environment
+settings at [claude.ai/code](https://claude.ai/code) (**Add cloud environment**,
+or the settings icon on an existing one), set **Network access** to **Custom**,
+and list:
+
+```text
+api.sleeper.app
+api.sleeper.com
+```
+
+Check **Also include default list of common package managers** so `uvx` can
+still install the server from PyPI. The change applies to newly started
+sessions, not to one already running. **Full** works too, and is a much broader
+grant for no extra benefit here.
+
+Running the server from a local terminal session sidesteps this entirely.
 
 ## What it can answer
 
