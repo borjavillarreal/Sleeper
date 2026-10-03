@@ -45,18 +45,34 @@ def main():
     users = {u["user_id"]: u for u in get(f"/league/{LEAGUE_ID}/users")}
     matchups = get(f"/league/{LEAGUE_ID}/matchups/{week}") or []
 
+    # Puntos de la semana anterior (scoring de la liga). Solo cubre jugadores
+    # que estaban en algún roster esa semana; el resto queda en null.
+    prev_week = week - 1
+    prev_matchups = (get(f"/league/{LEAGUE_ID}/matchups/{prev_week}") or []) if prev_week >= 1 else []
+    prev_points = {pid: pts for m in prev_matchups for pid, pts in (m.get("players_points") or {}).items()}
+    prev_by_roster = {m["roster_id"]: m for m in prev_matchups}
+
     def team_name(owner_id):
         u = users.get(owner_id) or {}
         return (u.get("metadata") or {}).get("team_name") or u.get("display_name")
 
+    def with_points(pid):
+        return {**lookup(pid), "points_last_week": prev_points.get(pid)}
+
     def roster_view(r):
+        prev = prev_by_roster.get(r["roster_id"]) or {}
         return {
             "roster_id": r["roster_id"],
             "owner_id": r.get("owner_id"),
             "team_name": team_name(r.get("owner_id")),
             "record": f"{r['settings'].get('wins', 0)}-{r['settings'].get('losses', 0)}-{r['settings'].get('ties', 0)}",
-            "starters": [lookup(pid) for pid in (r.get("starters") or []) if pid != "0"],
-            "players": [lookup(pid) for pid in (r.get("players") or [])],
+            "points_last_week": prev.get("points"),
+            "starters": [with_points(pid) for pid in (r.get("starters") or []) if pid != "0"],
+            "players": sorted(
+                (with_points(pid) for pid in (r.get("players") or [])),
+                key=lambda x: x["points_last_week"] if x["points_last_week"] is not None else -1,
+                reverse=True,
+            ),
             "injured_reserve": [lookup(pid) for pid in (r.get("reserve") or [])],
         }
 
@@ -98,6 +114,7 @@ def main():
         "league_id": LEAGUE_ID,
         "season": state.get("season"),
         "week": week,
+        "previous_week": prev_week if prev_week >= 1 else None,
         "my_team": {**roster_view(mine), "points_this_week": my_m.get("points") if my_m else None},
         "opponent": {**opponent, "points_this_week": opp_m.get("points")} if opponent else None,
         "free_agents_total": len(free_agents),

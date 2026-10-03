@@ -1,197 +1,225 @@
 {
-  "generated_at": "2026-10-03T06:56:15+00:00",
+  "generated_at": "2026-10-03T07:06:32+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 4,
+  "previous_week": 3,
   "my_team": {
     "roster_id": 5,
     "owner_id": "1394790260143067136",
     "team_name": "Inappropriate Touchdowns",
     "record": "1-2-0",
+    "points_last_week": 141.68,
     "starters": [
       {
         "player_id": "8183",
         "name": "Brock Purdy",
         "position": "QB",
         "team": "SF",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 39.28
       },
       {
         "player_id": "8151",
         "name": "Kenneth Walker",
         "position": "RB",
         "team": "KC",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 21.3
       },
       {
         "player_id": "12474",
         "name": "Woody Marks",
         "position": "RB",
         "team": "HOU",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 9.1
       },
       {
         "player_id": "10229",
         "name": "Rashee Rice",
         "position": "WR",
         "team": "KC",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 15.8
       },
       {
         "player_id": "8146",
         "name": "Garrett Wilson",
         "position": "WR",
         "team": "NYJ",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 26.7
       },
       {
         "player_id": "1466",
         "name": "Travis Kelce",
         "position": "TE",
         "team": "KC",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 13.9
       },
       {
         "player_id": "11632",
         "name": "Malik Nabers",
         "position": "WR",
         "team": "NYG",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 7.6
       },
       {
         "player_id": "9493",
         "name": "Puka Nacua",
         "position": "WR",
         "team": "LAR",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 0.0
       },
       {
         "player_id": "11539",
         "name": "Jake Bates",
         "position": "K",
         "team": "DET",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 7.0
       },
       {
         "player_id": "BAL",
         "name": "Baltimore Ravens",
         "position": "DEF",
         "team": "BAL",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 7.0
       }
     ],
     "players": [
       {
-        "player_id": "10229",
-        "name": "Rashee Rice",
-        "position": "WR",
-        "team": "KC",
-        "injury_status": null
-      },
-      {
-        "player_id": "11539",
-        "name": "Jake Bates",
-        "position": "K",
-        "team": "DET",
-        "injury_status": null
-      },
-      {
-        "player_id": "11632",
-        "name": "Malik Nabers",
-        "position": "WR",
-        "team": "NYG",
-        "injury_status": null
-      },
-      {
-        "player_id": "11834",
-        "name": "Devaughn Vele",
-        "position": "WR",
-        "team": "NO",
-        "injury_status": null
-      },
-      {
-        "player_id": "12474",
-        "name": "Woody Marks",
-        "position": "RB",
-        "team": "HOU",
-        "injury_status": null
-      },
-      {
-        "player_id": "13337",
-        "name": "Emmett Johnson",
-        "position": "RB",
-        "team": "KC",
-        "injury_status": null
-      },
-      {
-        "player_id": "1466",
-        "name": "Travis Kelce",
-        "position": "TE",
-        "team": "KC",
-        "injury_status": null
-      },
-      {
-        "player_id": "6797",
-        "name": "Justin Herbert",
+        "player_id": "8183",
+        "name": "Brock Purdy",
         "position": "QB",
-        "team": "LAC",
-        "injury_status": null
-      },
-      {
-        "player_id": "7021",
-        "name": "Rico Dowdle",
-        "position": "RB",
-        "team": "PIT",
-        "injury_status": "Out"
+        "team": "SF",
+        "injury_status": null,
+        "points_last_week": 39.28
       },
       {
         "player_id": "8146",
         "name": "Garrett Wilson",
         "position": "WR",
         "team": "NYJ",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 26.7
       },
       {
         "player_id": "8151",
         "name": "Kenneth Walker",
         "position": "RB",
         "team": "KC",
-        "injury_status": null
-      },
-      {
-        "player_id": "8183",
-        "name": "Brock Purdy",
-        "position": "QB",
-        "team": "SF",
-        "injury_status": null
-      },
-      {
-        "player_id": "9493",
-        "name": "Puka Nacua",
-        "position": "WR",
-        "team": "LAR",
-        "injury_status": null
-      },
-      {
-        "player_id": "9500",
-        "name": "Josh Downs",
-        "position": "WR",
-        "team": "IND",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 21.3
       },
       {
         "player_id": "9756",
         "name": "Jordan Addison",
         "position": "WR",
         "team": "MIN",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 20.0
+      },
+      {
+        "player_id": "10229",
+        "name": "Rashee Rice",
+        "position": "WR",
+        "team": "KC",
+        "injury_status": null,
+        "points_last_week": 15.8
+      },
+      {
+        "player_id": "6797",
+        "name": "Justin Herbert",
+        "position": "QB",
+        "team": "LAC",
+        "injury_status": null,
+        "points_last_week": 14.74
+      },
+      {
+        "player_id": "1466",
+        "name": "Travis Kelce",
+        "position": "TE",
+        "team": "KC",
+        "injury_status": null,
+        "points_last_week": 13.9
+      },
+      {
+        "player_id": "9500",
+        "name": "Josh Downs",
+        "position": "WR",
+        "team": "IND",
+        "injury_status": null,
+        "points_last_week": 12.7
+      },
+      {
+        "player_id": "12474",
+        "name": "Woody Marks",
+        "position": "RB",
+        "team": "HOU",
+        "injury_status": null,
+        "points_last_week": 9.1
+      },
+      {
+        "player_id": "11632",
+        "name": "Malik Nabers",
+        "position": "WR",
+        "team": "NYG",
+        "injury_status": null,
+        "points_last_week": 7.6
+      },
+      {
+        "player_id": "11539",
+        "name": "Jake Bates",
+        "position": "K",
+        "team": "DET",
+        "injury_status": null,
+        "points_last_week": 7.0
       },
       {
         "player_id": "BAL",
         "name": "Baltimore Ravens",
         "position": "DEF",
         "team": "BAL",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 7.0
+      },
+      {
+        "player_id": "11834",
+        "name": "Devaughn Vele",
+        "position": "WR",
+        "team": "NO",
+        "injury_status": null,
+        "points_last_week": 6.9
+      },
+      {
+        "player_id": "7021",
+        "name": "Rico Dowdle",
+        "position": "RB",
+        "team": "PIT",
+        "injury_status": "Out",
+        "points_last_week": 0.0
+      },
+      {
+        "player_id": "9493",
+        "name": "Puka Nacua",
+        "position": "WR",
+        "team": "LAR",
+        "injury_status": null,
+        "points_last_week": 0.0
+      },
+      {
+        "player_id": "13337",
+        "name": "Emmett Johnson",
+        "position": "RB",
+        "team": "KC",
+        "injury_status": null,
+        "points_last_week": null
       }
     ],
     "injured_reserve": [
@@ -210,190 +238,217 @@
     "owner_id": "1394790014524616704",
     "team_name": "Njigbas in Paris",
     "record": "2-1-0",
+    "points_last_week": 149.58,
     "starters": [
       {
         "player_id": "6804",
         "name": "Jordan Love",
         "position": "QB",
         "team": "GB",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 22.48
       },
       {
         "player_id": "7594",
         "name": "Chuba Hubbard",
         "position": "RB",
         "team": "CAR",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 15.0
       },
       {
         "player_id": "11576",
         "name": "Braelon Allen",
         "position": "RB",
         "team": "NYJ",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": null
       },
       {
         "player_id": "6794",
         "name": "Justin Jefferson",
         "position": "WR",
         "team": "MIN",
-        "injury_status": "Out"
+        "injury_status": "Out",
+        "points_last_week": 5.2
       },
       {
         "player_id": "6786",
         "name": "CeeDee Lamb",
         "position": "WR",
         "team": "DAL",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 20.2
       },
       {
         "player_id": "12518",
         "name": "Tyler Warren",
         "position": "TE",
         "team": "IND",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 14.7
       },
       {
         "player_id": "8144",
         "name": "Chris Olave",
         "position": "WR",
         "team": "NO",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 19.7
       },
       {
         "player_id": "12514",
         "name": "Emeka Egbuka",
         "position": "WR",
         "team": "TB",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 11.2
       },
       {
         "player_id": "11533",
         "name": "Brandon Aubrey",
         "position": "K",
         "team": "DAL",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 10.0
       },
       {
         "player_id": "MIN",
         "name": "Minnesota Vikings",
         "position": "DEF",
         "team": "MIN",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 22.0
       }
     ],
     "players": [
       {
-        "player_id": "11533",
-        "name": "Brandon Aubrey",
-        "position": "K",
-        "team": "DAL",
-        "injury_status": null
-      },
-      {
-        "player_id": "11560",
-        "name": "Caleb Williams",
+        "player_id": "6804",
+        "name": "Jordan Love",
         "position": "QB",
-        "team": "CHI",
-        "injury_status": "Out"
-      },
-      {
-        "player_id": "11576",
-        "name": "Braelon Allen",
-        "position": "RB",
-        "team": "NYJ",
-        "injury_status": null
-      },
-      {
-        "player_id": "11624",
-        "name": "Xavier Worthy",
-        "position": "WR",
-        "team": "KC",
-        "injury_status": null
-      },
-      {
-        "player_id": "12514",
-        "name": "Emeka Egbuka",
-        "position": "WR",
-        "team": "TB",
-        "injury_status": null
-      },
-      {
-        "player_id": "12518",
-        "name": "Tyler Warren",
-        "position": "TE",
-        "team": "IND",
-        "injury_status": null
-      },
-      {
-        "player_id": "5850",
-        "name": "Josh Jacobs",
-        "position": "RB",
         "team": "GB",
-        "injury_status": "NA"
+        "injury_status": null,
+        "points_last_week": 22.48
+      },
+      {
+        "player_id": "MIN",
+        "name": "Minnesota Vikings",
+        "position": "DEF",
+        "team": "MIN",
+        "injury_status": null,
+        "points_last_week": 22.0
       },
       {
         "player_id": "6786",
         "name": "CeeDee Lamb",
         "position": "WR",
         "team": "DAL",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 20.2
       },
       {
-        "player_id": "6794",
-        "name": "Justin Jefferson",
+        "player_id": "8144",
+        "name": "Chris Olave",
         "position": "WR",
-        "team": "MIN",
-        "injury_status": "Out"
+        "team": "NO",
+        "injury_status": null,
+        "points_last_week": 19.7
       },
       {
-        "player_id": "6804",
-        "name": "Jordan Love",
-        "position": "QB",
-        "team": "GB",
-        "injury_status": null
+        "player_id": "7594",
+        "name": "Chuba Hubbard",
+        "position": "RB",
+        "team": "CAR",
+        "injury_status": null,
+        "points_last_week": 15.0
+      },
+      {
+        "player_id": "12518",
+        "name": "Tyler Warren",
+        "position": "TE",
+        "team": "IND",
+        "injury_status": null,
+        "points_last_week": 14.7
+      },
+      {
+        "player_id": "12514",
+        "name": "Emeka Egbuka",
+        "position": "WR",
+        "team": "TB",
+        "injury_status": null,
+        "points_last_week": 11.2
+      },
+      {
+        "player_id": "11533",
+        "name": "Brandon Aubrey",
+        "position": "K",
+        "team": "DAL",
+        "injury_status": null,
+        "points_last_week": 10.0
       },
       {
         "player_id": "6806",
         "name": "J.K. Dobbins",
         "position": "RB",
         "team": "DEN",
-        "injury_status": null
+        "injury_status": null,
+        "points_last_week": 6.3
       },
       {
-        "player_id": "7594",
-        "name": "Chuba Hubbard",
-        "position": "RB",
-        "team": "CAR",
-        "injury_status": null
-      },
-      {
-        "player_id": "8144",
-        "name": "Chris Olave",
+        "player_id": "6794",
+        "name": "Justin Jefferson",
         "position": "WR",
-        "team": "NO",
-        "injury_status": null
+        "team": "MIN",
+        "injury_status": "Out",
+        "points_last_week": 5.2
+      },
+      {
+        "player_id": "11624",
+        "name": "Xavier Worthy",
+        "position": "WR",
+        "team": "KC",
+        "injury_status": null,
+        "points_last_week": 4.0
+      },
+      {
+        "player_id": "11560",
+        "name": "Caleb Williams",
+        "position": "QB",
+        "team": "CHI",
+        "injury_status": "Out",
+        "points_last_week": 0.0
+      },
+      {
+        "player_id": "5850",
+        "name": "Josh Jacobs",
+        "position": "RB",
+        "team": "GB",
+        "injury_status": "NA",
+        "points_last_week": 0.0
       },
       {
         "player_id": "8408",
         "name": "Jordan Mason",
         "position": "RB",
         "team": "MIN",
-        "injury_status": "IR"
+        "injury_status": "IR",
+        "points_last_week": 0.0
       },
       {
         "player_id": "9502",
         "name": "Tank Dell",
         "position": "WR",
         "team": "HOU",
-        "injury_status": "IR"
+        "injury_status": "IR",
+        "points_last_week": 0.0
       },
       {
-        "player_id": "MIN",
-        "name": "Minnesota Vikings",
-        "position": "DEF",
-        "team": "MIN",
-        "injury_status": null
+        "player_id": "11576",
+        "name": "Braelon Allen",
+        "position": "RB",
+        "team": "NYJ",
+        "injury_status": null,
+        "points_last_week": null
       }
     ],
     "injured_reserve": [
@@ -415,7 +470,7 @@
       "position": "WR",
       "team": "PIT",
       "injury_status": null,
-      "adds_48h": 860076
+      "adds_48h": 861012
     },
     {
       "player_id": "3321",
@@ -423,7 +478,7 @@
       "position": "WR",
       "team": null,
       "injury_status": "",
-      "adds_48h": 783608
+      "adds_48h": 783832
     },
     {
       "player_id": "11435",
@@ -431,7 +486,7 @@
       "position": "RB",
       "team": "SEA",
       "injury_status": null,
-      "adds_48h": 689463
+      "adds_48h": 691776
     },
     {
       "player_id": "11571",
@@ -439,7 +494,7 @@
       "position": "RB",
       "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 634050
+      "adds_48h": 634545
     },
     {
       "player_id": "12718",
@@ -447,7 +502,7 @@
       "position": "WR",
       "team": "LAR",
       "injury_status": null,
-      "adds_48h": 466956
+      "adds_48h": 467064
     },
     {
       "player_id": "3271",
@@ -455,7 +510,7 @@
       "position": "TE",
       "team": "LAR",
       "injury_status": null,
-      "adds_48h": 358092
+      "adds_48h": 358497
     },
     {
       "player_id": "7049",
@@ -463,7 +518,7 @@
       "position": "WR",
       "team": "MIN",
       "injury_status": null,
-      "adds_48h": 323358
+      "adds_48h": 324100
     },
     {
       "player_id": "CLE",
@@ -471,7 +526,7 @@
       "position": "DEF",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 209272
+      "adds_48h": 209279
     },
     {
       "player_id": "1166",
@@ -479,7 +534,7 @@
       "position": "QB",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 187192
+      "adds_48h": 187280
     },
     {
       "player_id": "LV",
@@ -487,7 +542,7 @@
       "position": "DEF",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 159906
+      "adds_48h": 160050
     },
     {
       "player_id": "9758",
@@ -495,7 +550,7 @@
       "position": "QB",
       "team": "HOU",
       "injury_status": null,
-      "adds_48h": 142107
+      "adds_48h": 142254
     },
     {
       "player_id": "13298",
@@ -503,7 +558,7 @@
       "position": "WR",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 133695
+      "adds_48h": 133821
     },
     {
       "player_id": "4017",
@@ -511,7 +566,7 @@
       "position": "QB",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 131368
+      "adds_48h": 131440
     },
     {
       "player_id": "8168",
@@ -519,7 +574,7 @@
       "position": "WR",
       "team": "GB",
       "injury_status": null,
-      "adds_48h": 126808
+      "adds_48h": 126968
     },
     {
       "player_id": "11581",
@@ -527,7 +582,7 @@
       "position": "RB",
       "team": "GB",
       "injury_status": null,
-      "adds_48h": 122598
+      "adds_48h": 122742
     },
     {
       "player_id": "ARI",
@@ -535,7 +590,7 @@
       "position": "DEF",
       "team": "ARI",
       "injury_status": null,
-      "adds_48h": 116672
+      "adds_48h": 116848
     },
     {
       "player_id": "9753",
@@ -543,7 +598,7 @@
       "position": "RB",
       "team": "SEA",
       "injury_status": "PUP",
-      "adds_48h": 115038
+      "adds_48h": 115152
     },
     {
       "player_id": "8154",
@@ -551,7 +606,7 @@
       "position": "RB",
       "team": "ATL",
       "injury_status": null,
-      "adds_48h": 105894
+      "adds_48h": 105930
     },
     {
       "player_id": "6083",
@@ -559,7 +614,7 @@
       "position": "K",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 100095
+      "adds_48h": 100160
     },
     {
       "player_id": "12185",
@@ -567,7 +622,7 @@
       "position": "K",
       "team": "IND",
       "injury_status": null,
-      "adds_48h": 93158
+      "adds_48h": 93234
     },
     {
       "player_id": "9511",
@@ -575,7 +630,7 @@
       "position": "RB",
       "team": "LAC",
       "injury_status": null,
-      "adds_48h": 90513
+      "adds_48h": 90639
     },
     {
       "player_id": "12472",
@@ -583,7 +638,7 @@
       "position": "RB",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 86256
+      "adds_48h": 86264
     },
     {
       "player_id": "11256",
@@ -591,7 +646,7 @@
       "position": "QB",
       "team": "CHI",
       "injury_status": null,
-      "adds_48h": 85578
+      "adds_48h": 85842
     },
     {
       "player_id": "9480",
@@ -599,7 +654,7 @@
       "position": "TE",
       "team": "JAX",
       "injury_status": null,
-      "adds_48h": 84402
+      "adds_48h": 84537
     },
     {
       "player_id": "4177",
@@ -607,7 +662,7 @@
       "position": "WR",
       "team": "NE",
       "injury_status": null,
-      "adds_48h": 83136
+      "adds_48h": 83199
     }
   ],
   "transactions": [
