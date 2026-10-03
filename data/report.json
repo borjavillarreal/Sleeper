@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:47:10+00:00",
+  "generated_at": "2026-10-03T06:56:15+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 4,
@@ -415,7 +415,7 @@
       "position": "WR",
       "team": "PIT",
       "injury_status": null,
-      "adds_48h": 858987
+      "adds_48h": 860076
     },
     {
       "player_id": "3321",
@@ -423,7 +423,7 @@
       "position": "WR",
       "team": null,
       "injury_status": "",
-      "adds_48h": 783400
+      "adds_48h": 783608
     },
     {
       "player_id": "11435",
@@ -431,7 +431,7 @@
       "position": "RB",
       "team": "SEA",
       "injury_status": null,
-      "adds_48h": 687285
+      "adds_48h": 689463
     },
     {
       "player_id": "11571",
@@ -439,7 +439,7 @@
       "position": "RB",
       "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 633429
+      "adds_48h": 634050
     },
     {
       "player_id": "12718",
@@ -447,7 +447,7 @@
       "position": "WR",
       "team": "LAR",
       "injury_status": null,
-      "adds_48h": 466758
+      "adds_48h": 466956
     },
     {
       "player_id": "3271",
@@ -455,7 +455,7 @@
       "position": "TE",
       "team": "LAR",
       "injury_status": null,
-      "adds_48h": 357687
+      "adds_48h": 358092
     },
     {
       "player_id": "7049",
@@ -463,7 +463,7 @@
       "position": "WR",
       "team": "MIN",
       "injury_status": null,
-      "adds_48h": 322693
+      "adds_48h": 323358
     },
     {
       "player_id": "CLE",
@@ -471,7 +471,7 @@
       "position": "DEF",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 209258
+      "adds_48h": 209272
     },
     {
       "player_id": "1166",
@@ -479,7 +479,7 @@
       "position": "QB",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 187032
+      "adds_48h": 187192
     },
     {
       "player_id": "LV",
@@ -487,7 +487,7 @@
       "position": "DEF",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 159732
+      "adds_48h": 159906
     },
     {
       "player_id": "9758",
@@ -495,7 +495,7 @@
       "position": "QB",
       "team": "HOU",
       "injury_status": null,
-      "adds_48h": 141967
+      "adds_48h": 142107
     },
     {
       "player_id": "13298",
@@ -503,7 +503,7 @@
       "position": "WR",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 133551
+      "adds_48h": 133695
     },
     {
       "player_id": "4017",
@@ -511,7 +511,7 @@
       "position": "QB",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 131328
+      "adds_48h": 131368
     },
     {
       "player_id": "8168",
@@ -519,7 +519,7 @@
       "position": "WR",
       "team": "GB",
       "injury_status": null,
-      "adds_48h": 126688
+      "adds_48h": 126808
     },
     {
       "player_id": "11581",
@@ -527,7 +527,7 @@
       "position": "RB",
       "team": "GB",
       "injury_status": null,
-      "adds_48h": 122517
+      "adds_48h": 122598
     },
     {
       "player_id": "ARI",
@@ -535,7 +535,7 @@
       "position": "DEF",
       "team": "ARI",
       "injury_status": null,
-      "adds_48h": 116552
+      "adds_48h": 116672
     },
     {
       "player_id": "9753",
@@ -543,7 +543,7 @@
       "position": "RB",
       "team": "SEA",
       "injury_status": "PUP",
-      "adds_48h": 114963
+      "adds_48h": 115038
     },
     {
       "player_id": "8154",
@@ -551,7 +551,7 @@
       "position": "RB",
       "team": "ATL",
       "injury_status": null,
-      "adds_48h": 105840
+      "adds_48h": 105894
     },
     {
       "player_id": "6083",
@@ -559,7 +559,7 @@
       "position": "K",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 99970
+      "adds_48h": 100095
     },
     {
       "player_id": "12185",
@@ -567,7 +567,7 @@
       "position": "K",
       "team": "IND",
       "injury_status": null,
-      "adds_48h": 93090
+      "adds_48h": 93158
     },
     {
       "player_id": "9511",
@@ -575,7 +575,7 @@
       "position": "RB",
       "team": "LAC",
       "injury_status": null,
-      "adds_48h": 90378
+      "adds_48h": 90513
     },
     {
       "player_id": "12472",
@@ -583,7 +583,7 @@
       "position": "RB",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 86240
+      "adds_48h": 86256
     },
     {
       "player_id": "11256",
@@ -591,7 +591,7 @@
       "position": "QB",
       "team": "CHI",
       "injury_status": null,
-      "adds_48h": 85188
+      "adds_48h": 85578
     },
     {
       "player_id": "9480",
@@ -599,7 +599,7 @@
       "position": "TE",
       "team": "JAX",
       "injury_status": null,
-      "adds_48h": 84330
+      "adds_48h": 84402
     },
     {
       "player_id": "4177",
@@ -607,7 +607,7 @@
       "position": "WR",
       "team": "NE",
       "injury_status": null,
-      "adds_48h": 83055
+      "adds_48h": 83136
     }
   ],
   "transactions": [
