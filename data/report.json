@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T07:06:32+00:00",
+  "generated_at": "2026-10-03T15:44:45+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 4,
@@ -28,12 +28,12 @@
         "points_last_week": 21.3
       },
       {
-        "player_id": "12474",
-        "name": "Woody Marks",
+        "player_id": "11435",
+        "name": "Emanuel Wilson",
         "position": "RB",
-        "team": "HOU",
+        "team": "SEA",
         "injury_status": null,
-        "points_last_week": 9.1
+        "points_last_week": null
       },
       {
         "player_id": "10229",
@@ -190,14 +190,6 @@
         "points_last_week": 7.0
       },
       {
-        "player_id": "11834",
-        "name": "Devaughn Vele",
-        "position": "WR",
-        "team": "NO",
-        "injury_status": null,
-        "points_last_week": 6.9
-      },
-      {
         "player_id": "7021",
         "name": "Rico Dowdle",
         "position": "RB",
@@ -212,6 +204,14 @@
         "team": "LAR",
         "injury_status": null,
         "points_last_week": 0.0
+      },
+      {
+        "player_id": "11435",
+        "name": "Emanuel Wilson",
+        "position": "RB",
+        "team": "SEA",
+        "injury_status": null,
+        "points_last_week": null
       },
       {
         "player_id": "13337",
@@ -470,7 +470,7 @@
       "position": "WR",
       "team": "PIT",
       "injury_status": null,
-      "adds_48h": 861012
+      "adds_48h": 920151
     },
     {
       "player_id": "3321",
@@ -478,15 +478,7 @@
       "position": "WR",
       "team": null,
       "injury_status": "",
-      "adds_48h": 783832
-    },
-    {
-      "player_id": "11435",
-      "name": "Emanuel Wilson",
-      "position": "RB",
-      "team": "SEA",
-      "injury_status": null,
-      "adds_48h": 691776
+      "adds_48h": 711840
     },
     {
       "player_id": "11571",
@@ -494,23 +486,7 @@
       "position": "RB",
       "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 634545
-    },
-    {
-      "player_id": "12718",
-      "name": "Konata Mumpfield",
-      "position": "WR",
-      "team": "LAR",
-      "injury_status": null,
-      "adds_48h": 467064
-    },
-    {
-      "player_id": "3271",
-      "name": "Tyler Higbee",
-      "position": "TE",
-      "team": "LAR",
-      "injury_status": null,
-      "adds_48h": 358497
+      "adds_48h": 643590
     },
     {
       "player_id": "7049",
@@ -518,15 +494,23 @@
       "position": "WR",
       "team": "MIN",
       "injury_status": null,
-      "adds_48h": 324100
+      "adds_48h": 389186
     },
     {
-      "player_id": "CLE",
-      "name": "Cleveland Browns",
-      "position": "DEF",
-      "team": "CLE",
+      "player_id": "12718",
+      "name": "Konata Mumpfield",
+      "position": "WR",
+      "team": "LAR",
       "injury_status": null,
-      "adds_48h": 209279
+      "adds_48h": 381411
+    },
+    {
+      "player_id": "3271",
+      "name": "Tyler Higbee",
+      "position": "TE",
+      "team": "LAR",
+      "injury_status": null,
+      "adds_48h": 347931
     },
     {
       "player_id": "1166",
@@ -534,7 +518,15 @@
       "position": "QB",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 187280
+      "adds_48h": 172304
+    },
+    {
+      "player_id": "CLE",
+      "name": "Cleveland Browns",
+      "position": "DEF",
+      "team": "CLE",
+      "injury_status": null,
+      "adds_48h": 168959
     },
     {
       "player_id": "LV",
@@ -542,7 +534,7 @@
       "position": "DEF",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 160050
+      "adds_48h": 153876
     },
     {
       "player_id": "9758",
@@ -550,7 +542,7 @@
       "position": "QB",
       "team": "HOU",
       "injury_status": null,
-      "adds_48h": 142254
+      "adds_48h": 138222
     },
     {
       "player_id": "13298",
@@ -558,7 +550,7 @@
       "position": "WR",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 133821
+      "adds_48h": 127215
     },
     {
       "player_id": "4017",
@@ -566,23 +558,7 @@
       "position": "QB",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 131440
-    },
-    {
-      "player_id": "8168",
-      "name": "Skyy Moore",
-      "position": "WR",
-      "team": "GB",
-      "injury_status": null,
-      "adds_48h": 126968
-    },
-    {
-      "player_id": "11581",
-      "name": "MarShawn Lloyd",
-      "position": "RB",
-      "team": "GB",
-      "injury_status": null,
-      "adds_48h": 122742
+      "adds_48h": 122576
     },
     {
       "player_id": "ARI",
@@ -590,7 +566,23 @@
       "position": "DEF",
       "team": "ARI",
       "injury_status": null,
-      "adds_48h": 116848
+      "adds_48h": 118112
+    },
+    {
+      "player_id": "8168",
+      "name": "Skyy Moore",
+      "position": "WR",
+      "team": "GB",
+      "injury_status": null,
+      "adds_48h": 117520
+    },
+    {
+      "player_id": "11581",
+      "name": "MarShawn Lloyd",
+      "position": "RB",
+      "team": "GB",
+      "injury_status": null,
+      "adds_48h": 116847
     },
     {
       "player_id": "9753",
@@ -598,47 +590,7 @@
       "position": "RB",
       "team": "SEA",
       "injury_status": "PUP",
-      "adds_48h": 115152
-    },
-    {
-      "player_id": "8154",
-      "name": "Brian Robinson",
-      "position": "RB",
-      "team": "ATL",
-      "injury_status": null,
-      "adds_48h": 105930
-    },
-    {
-      "player_id": "6083",
-      "name": "Matt Gay",
-      "position": "K",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 100160
-    },
-    {
-      "player_id": "12185",
-      "name": "Spencer Shrader",
-      "position": "K",
-      "team": "IND",
-      "injury_status": null,
-      "adds_48h": 93234
-    },
-    {
-      "player_id": "9511",
-      "name": "Keaton Mitchell",
-      "position": "RB",
-      "team": "LAC",
-      "injury_status": null,
-      "adds_48h": 90639
-    },
-    {
-      "player_id": "12472",
-      "name": "Raheim Sanders",
-      "position": "RB",
-      "team": "CLE",
-      "injury_status": null,
-      "adds_48h": 86264
+      "adds_48h": 116175
     },
     {
       "player_id": "11256",
@@ -646,15 +598,31 @@
       "position": "QB",
       "team": "CHI",
       "injury_status": null,
-      "adds_48h": 85842
+      "adds_48h": 107844
     },
     {
-      "player_id": "9480",
-      "name": "Brenton Strange",
-      "position": "TE",
-      "team": "JAX",
+      "player_id": "8154",
+      "name": "Brian Robinson",
+      "position": "RB",
+      "team": "ATL",
       "injury_status": null,
-      "adds_48h": 84537
+      "adds_48h": 98502
+    },
+    {
+      "player_id": "6083",
+      "name": "Matt Gay",
+      "position": "K",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 95330
+    },
+    {
+      "player_id": "9511",
+      "name": "Keaton Mitchell",
+      "position": "RB",
+      "team": "LAC",
+      "injury_status": null,
+      "adds_48h": 84987
     },
     {
       "player_id": "4177",
@@ -662,10 +630,71 @@
       "position": "WR",
       "team": "NE",
       "injury_status": null,
-      "adds_48h": 83199
+      "adds_48h": 84435
+    },
+    {
+      "player_id": "12185",
+      "name": "Spencer Shrader",
+      "position": "K",
+      "team": "IND",
+      "injury_status": null,
+      "adds_48h": 84076
+    },
+    {
+      "player_id": "9480",
+      "name": "Brenton Strange",
+      "position": "TE",
+      "team": "JAX",
+      "injury_status": null,
+      "adds_48h": 82458
+    },
+    {
+      "player_id": "12509",
+      "name": "Tre' Harris",
+      "position": "WR",
+      "team": "LAC",
+      "injury_status": null,
+      "adds_48h": 79508
+    },
+    {
+      "player_id": "2307",
+      "name": "Marcus Mariota",
+      "position": "QB",
+      "team": "WAS",
+      "injury_status": null,
+      "adds_48h": 77224
     }
   ],
   "transactions": [
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-10-03T12:19:23.314000+00:00",
+      "teams": [
+        "Inappropriate Touchdowns"
+      ],
+      "adds": [
+        {
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA",
+          "injury_status": null,
+          "to": "Inappropriate Touchdowns"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11834",
+          "name": "Devaughn Vele",
+          "position": "WR",
+          "team": "NO",
+          "injury_status": null,
+          "from": "Inappropriate Touchdowns"
+        }
+      ],
+      "waiver_bid": null
+    },
     {
       "type": "free_agent",
       "status": "complete",
@@ -904,7 +933,7 @@
           "name": "Keenan Allen",
           "position": "WR",
           "team": "IND",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "to": "Downs Toucher"
         }
       ],
