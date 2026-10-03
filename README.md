@@ -83,3 +83,10 @@ Show me all leagues for username "<your-sleeper-username>"
 
 See [docs/league-analysis.md](docs/league-analysis.md) for the analyses these
 tools actually support, the ones they don't, and why.
+
+## Daily report
+
+`report.py` (stdlib only, no API keys) runs daily at 12:00 UTC via
+`.github/workflows/report.yml` and commits `data/report.json`:
+
+https://raw.githubusercontent.com/borjavillarreal/Sleeper/main/data/report.json
