@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:44:45+00:00",
+  "generated_at": "2026-10-04T16:26:24+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 4,
@@ -265,12 +265,12 @@
         "points_last_week": null
       },
       {
-        "player_id": "6794",
-        "name": "Justin Jefferson",
+        "player_id": "8144",
+        "name": "Chris Olave",
         "position": "WR",
-        "team": "MIN",
-        "injury_status": "Out",
-        "points_last_week": 5.2
+        "team": "NO",
+        "injury_status": null,
+        "points_last_week": 19.7
       },
       {
         "player_id": "6786",
@@ -289,12 +289,12 @@
         "points_last_week": 14.7
       },
       {
-        "player_id": "8144",
-        "name": "Chris Olave",
+        "player_id": "11624",
+        "name": "Xavier Worthy",
         "position": "WR",
-        "team": "NO",
+        "team": "KC",
         "injury_status": null,
-        "points_last_week": 19.7
+        "points_last_week": 4.0
       },
       {
         "player_id": "12514",
@@ -460,7 +460,7 @@
         "injury_status": "IR"
       }
     ],
-    "points_this_week": 0.0
+    "points_this_week": 9.1
   },
   "free_agents_total": 3076,
   "trending_free_agents": [
@@ -470,23 +470,7 @@
       "position": "WR",
       "team": "PIT",
       "injury_status": null,
-      "adds_48h": 920151
-    },
-    {
-      "player_id": "3321",
-      "name": "Tyreek Hill",
-      "position": "WR",
-      "team": null,
-      "injury_status": "",
-      "adds_48h": 711840
-    },
-    {
-      "player_id": "11571",
-      "name": "Isaiah Davis",
-      "position": "RB",
-      "team": "NYJ",
-      "injury_status": null,
-      "adds_48h": 643590
+      "adds_48h": 874053
     },
     {
       "player_id": "7049",
@@ -494,15 +478,15 @@
       "position": "WR",
       "team": "MIN",
       "injury_status": null,
-      "adds_48h": 389186
+      "adds_48h": 749609
     },
     {
-      "player_id": "12718",
-      "name": "Konata Mumpfield",
-      "position": "WR",
-      "team": "LAR",
+      "player_id": "11571",
+      "name": "Isaiah Davis",
+      "position": "RB",
+      "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 381411
+      "adds_48h": 478296
     },
     {
       "player_id": "3271",
@@ -510,87 +494,23 @@
       "position": "TE",
       "team": "LAR",
       "injury_status": null,
-      "adds_48h": 347931
+      "adds_48h": 290142
     },
     {
-      "player_id": "1166",
-      "name": "Kirk Cousins",
-      "position": "QB",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 172304
-    },
-    {
-      "player_id": "CLE",
-      "name": "Cleveland Browns",
-      "position": "DEF",
-      "team": "CLE",
-      "injury_status": null,
-      "adds_48h": 168959
-    },
-    {
-      "player_id": "LV",
-      "name": "Las Vegas Raiders",
-      "position": "DEF",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 153876
-    },
-    {
-      "player_id": "9758",
-      "name": "C.J. Stroud",
-      "position": "QB",
-      "team": "HOU",
-      "injury_status": null,
-      "adds_48h": 138222
-    },
-    {
-      "player_id": "13298",
-      "name": "KC Concepcion",
+      "player_id": "11157",
+      "name": "Brycen Tremayne",
       "position": "WR",
-      "team": "CLE",
+      "team": "CAR",
       "injury_status": null,
-      "adds_48h": 127215
+      "adds_48h": 271809
     },
     {
-      "player_id": "4017",
-      "name": "Deshaun Watson",
-      "position": "QB",
-      "team": "CLE",
-      "injury_status": null,
-      "adds_48h": 122576
-    },
-    {
-      "player_id": "ARI",
-      "name": "Arizona Cardinals",
-      "position": "DEF",
-      "team": "ARI",
-      "injury_status": null,
-      "adds_48h": 118112
-    },
-    {
-      "player_id": "8168",
-      "name": "Skyy Moore",
+      "player_id": "3321",
+      "name": "Tyreek Hill",
       "position": "WR",
-      "team": "GB",
-      "injury_status": null,
-      "adds_48h": 117520
-    },
-    {
-      "player_id": "11581",
-      "name": "MarShawn Lloyd",
-      "position": "RB",
-      "team": "GB",
-      "injury_status": null,
-      "adds_48h": 116847
-    },
-    {
-      "player_id": "9753",
-      "name": "Zach Charbonnet",
-      "position": "RB",
-      "team": "SEA",
-      "injury_status": "PUP",
-      "adds_48h": 116175
+      "team": null,
+      "injury_status": "",
+      "adds_48h": 221280
     },
     {
       "player_id": "11256",
@@ -598,31 +518,63 @@
       "position": "QB",
       "team": "CHI",
       "injury_status": null,
-      "adds_48h": 107844
+      "adds_48h": 215406
     },
     {
-      "player_id": "8154",
-      "name": "Brian Robinson",
+      "player_id": "4663",
+      "name": "Austin Ekeler",
       "position": "RB",
-      "team": "ATL",
+      "team": "WAS",
       "injury_status": null,
-      "adds_48h": 98502
+      "adds_48h": 200752
     },
     {
-      "player_id": "6083",
-      "name": "Matt Gay",
-      "position": "K",
+      "player_id": "ARI",
+      "name": "Arizona Cardinals",
+      "position": "DEF",
+      "team": "ARI",
+      "injury_status": null,
+      "adds_48h": 165880
+    },
+    {
+      "player_id": "9758",
+      "name": "C.J. Stroud",
+      "position": "QB",
+      "team": "HOU",
+      "injury_status": null,
+      "adds_48h": 128821
+    },
+    {
+      "player_id": "LV",
+      "name": "Las Vegas Raiders",
+      "position": "DEF",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 95330
+      "adds_48h": 121836
     },
     {
-      "player_id": "9511",
-      "name": "Keaton Mitchell",
-      "position": "RB",
-      "team": "LAC",
+      "player_id": "12718",
+      "name": "Konata Mumpfield",
+      "position": "WR",
+      "team": "LAR",
       "injury_status": null,
-      "adds_48h": 84987
+      "adds_48h": 107937
+    },
+    {
+      "player_id": "13311",
+      "name": "Chris Bell",
+      "position": "WR",
+      "team": "MIA",
+      "injury_status": null,
+      "adds_48h": 102004
+    },
+    {
+      "player_id": "11581",
+      "name": "MarShawn Lloyd",
+      "position": "RB",
+      "team": "GB",
+      "injury_status": null,
+      "adds_48h": 99621
     },
     {
       "player_id": "4177",
@@ -630,23 +582,15 @@
       "position": "WR",
       "team": "NE",
       "injury_status": null,
-      "adds_48h": 84435
+      "adds_48h": 96672
     },
     {
-      "player_id": "12185",
-      "name": "Spencer Shrader",
-      "position": "K",
-      "team": "IND",
+      "player_id": "9511",
+      "name": "Keaton Mitchell",
+      "position": "RB",
+      "team": "LAC",
       "injury_status": null,
-      "adds_48h": 84076
-    },
-    {
-      "player_id": "9480",
-      "name": "Brenton Strange",
-      "position": "TE",
-      "team": "JAX",
-      "injury_status": null,
-      "adds_48h": 82458
+      "adds_48h": 91872
     },
     {
       "player_id": "12509",
@@ -654,15 +598,71 @@
       "position": "WR",
       "team": "LAC",
       "injury_status": null,
-      "adds_48h": 79508
+      "adds_48h": 90680
     },
     {
-      "player_id": "2307",
-      "name": "Marcus Mariota",
+      "player_id": "1166",
+      "name": "Kirk Cousins",
       "position": "QB",
-      "team": "WAS",
+      "team": "LV",
       "injury_status": null,
-      "adds_48h": 77224
+      "adds_48h": 89384
+    },
+    {
+      "player_id": "9753",
+      "name": "Zach Charbonnet",
+      "position": "RB",
+      "team": "SEA",
+      "injury_status": "PUP",
+      "adds_48h": 88989
+    },
+    {
+      "player_id": "6083",
+      "name": "Matt Gay",
+      "position": "K",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 86470
+    },
+    {
+      "player_id": "9480",
+      "name": "Brenton Strange",
+      "position": "TE",
+      "team": "JAX",
+      "injury_status": null,
+      "adds_48h": 82188
+    },
+    {
+      "player_id": "13150",
+      "name": "Darius Cooper",
+      "position": "WR",
+      "team": "PHI",
+      "injury_status": null,
+      "adds_48h": 79233
+    },
+    {
+      "player_id": "3155",
+      "name": "Laquon Treadwell",
+      "position": "WR",
+      "team": "IND",
+      "injury_status": null,
+      "adds_48h": 73505
+    },
+    {
+      "player_id": "8168",
+      "name": "Skyy Moore",
+      "position": "WR",
+      "team": "GB",
+      "injury_status": null,
+      "adds_48h": 70208
+    },
+    {
+      "player_id": "8154",
+      "name": "Brian Robinson",
+      "position": "RB",
+      "team": "ATL",
+      "injury_status": null,
+      "adds_48h": 68220
     }
   ],
   "transactions": [
@@ -738,7 +738,7 @@
           "name": "Jadarian Price",
           "position": "RB",
           "team": "SEA",
-          "injury_status": "Out",
+          "injury_status": "IR",
           "from": "Inappropriate Touchdowns"
         }
       ],
@@ -875,7 +875,7 @@
           "name": "Kenyon Sadiq",
           "position": "TE",
           "team": "NYJ",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "to": "Big TDs"
         }
       ],
