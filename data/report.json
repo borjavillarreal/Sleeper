@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:26:24+00:00",
+  "generated_at": "2026-10-05T20:23:33+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 4,
@@ -40,7 +40,7 @@
         "name": "Rashee Rice",
         "position": "WR",
         "team": "KC",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 15.8
       },
       {
@@ -130,7 +130,7 @@
         "name": "Rashee Rice",
         "position": "WR",
         "team": "KC",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 15.8
       },
       {
@@ -231,7 +231,7 @@
         "injury_status": "Out"
       }
     ],
-    "points_this_week": 0.0
+    "points_this_week": 168.62
   },
   "opponent": {
     "roster_id": 4,
@@ -460,7 +460,7 @@
         "injury_status": "IR"
       }
     ],
-    "points_this_week": 9.1
+    "points_this_week": 139.38
   },
   "free_agents_total": 3076,
   "trending_free_agents": [
@@ -470,31 +470,7 @@
       "position": "WR",
       "team": "PIT",
       "injury_status": null,
-      "adds_48h": 874053
-    },
-    {
-      "player_id": "7049",
-      "name": "Jauan Jennings",
-      "position": "WR",
-      "team": "MIN",
-      "injury_status": null,
-      "adds_48h": 749609
-    },
-    {
-      "player_id": "11571",
-      "name": "Isaiah Davis",
-      "position": "RB",
-      "team": "NYJ",
-      "injury_status": null,
-      "adds_48h": 478296
-    },
-    {
-      "player_id": "3271",
-      "name": "Tyler Higbee",
-      "position": "TE",
-      "team": "LAR",
-      "injury_status": null,
-      "adds_48h": 290142
+      "adds_48h": 960417
     },
     {
       "player_id": "11157",
@@ -502,7 +478,15 @@
       "position": "WR",
       "team": "CAR",
       "injury_status": null,
-      "adds_48h": 271809
+      "adds_48h": 690714
+    },
+    {
+      "player_id": "11637",
+      "name": "Keon Coleman",
+      "position": "WR",
+      "team": "BUF",
+      "injury_status": null,
+      "adds_48h": 669627
     },
     {
       "player_id": "3321",
@@ -510,95 +494,23 @@
       "position": "WR",
       "team": null,
       "injury_status": "",
-      "adds_48h": 221280
+      "adds_48h": 520280
     },
     {
-      "player_id": "11256",
-      "name": "Tyson Bagent",
-      "position": "QB",
-      "team": "CHI",
-      "injury_status": null,
-      "adds_48h": 215406
-    },
-    {
-      "player_id": "4663",
-      "name": "Austin Ekeler",
-      "position": "RB",
-      "team": "WAS",
-      "injury_status": null,
-      "adds_48h": 200752
-    },
-    {
-      "player_id": "ARI",
-      "name": "Arizona Cardinals",
-      "position": "DEF",
-      "team": "ARI",
-      "injury_status": null,
-      "adds_48h": 165880
-    },
-    {
-      "player_id": "9758",
-      "name": "C.J. Stroud",
-      "position": "QB",
-      "team": "HOU",
-      "injury_status": null,
-      "adds_48h": 128821
-    },
-    {
-      "player_id": "LV",
-      "name": "Las Vegas Raiders",
-      "position": "DEF",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 121836
-    },
-    {
-      "player_id": "12718",
-      "name": "Konata Mumpfield",
+      "player_id": "7049",
+      "name": "Jauan Jennings",
       "position": "WR",
-      "team": "LAR",
+      "team": "MIN",
       "injury_status": null,
-      "adds_48h": 107937
+      "adds_48h": 514605
     },
     {
-      "player_id": "13311",
-      "name": "Chris Bell",
+      "player_id": "13264",
+      "name": "Dohnte Meyers",
       "position": "WR",
-      "team": "MIA",
+      "team": "CIN",
       "injury_status": null,
-      "adds_48h": 102004
-    },
-    {
-      "player_id": "11581",
-      "name": "MarShawn Lloyd",
-      "position": "RB",
-      "team": "GB",
-      "injury_status": null,
-      "adds_48h": 99621
-    },
-    {
-      "player_id": "4177",
-      "name": "Mack Hollins",
-      "position": "WR",
-      "team": "NE",
-      "injury_status": null,
-      "adds_48h": 96672
-    },
-    {
-      "player_id": "9511",
-      "name": "Keaton Mitchell",
-      "position": "RB",
-      "team": "LAC",
-      "injury_status": null,
-      "adds_48h": 91872
-    },
-    {
-      "player_id": "12509",
-      "name": "Tre' Harris",
-      "position": "WR",
-      "team": "LAC",
-      "injury_status": null,
-      "adds_48h": 90680
+      "adds_48h": 455859
     },
     {
       "player_id": "1166",
@@ -606,31 +518,15 @@
       "position": "QB",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 89384
+      "adds_48h": 276208
     },
     {
-      "player_id": "9753",
-      "name": "Zach Charbonnet",
+      "player_id": "9225",
+      "name": "Tank Bigsby",
       "position": "RB",
-      "team": "SEA",
-      "injury_status": "PUP",
-      "adds_48h": 88989
-    },
-    {
-      "player_id": "6083",
-      "name": "Matt Gay",
-      "position": "K",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 86470
-    },
-    {
-      "player_id": "9480",
-      "name": "Brenton Strange",
-      "position": "TE",
-      "team": "JAX",
-      "injury_status": null,
-      "adds_48h": 82188
+      "team": "PHI",
+      "injury_status": "Questionable",
+      "adds_48h": 270326
     },
     {
       "player_id": "13150",
@@ -638,31 +534,135 @@
       "position": "WR",
       "team": "PHI",
       "injury_status": null,
-      "adds_48h": 79233
+      "adds_48h": 242564
     },
     {
-      "player_id": "3155",
-      "name": "Laquon Treadwell",
-      "position": "WR",
-      "team": "IND",
+      "player_id": "11571",
+      "name": "Isaiah Davis",
+      "position": "RB",
+      "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 73505
+      "adds_48h": 218763
     },
     {
-      "player_id": "8168",
-      "name": "Skyy Moore",
+      "player_id": "3271",
+      "name": "Tyler Higbee",
+      "position": "TE",
+      "team": "LAR",
+      "injury_status": null,
+      "adds_48h": 217485
+    },
+    {
+      "player_id": "8121",
+      "name": "Romeo Doubs",
       "position": "WR",
+      "team": "NE",
+      "injury_status": null,
+      "adds_48h": 193272
+    },
+    {
+      "player_id": "9758",
+      "name": "C.J. Stroud",
+      "position": "QB",
+      "team": "HOU",
+      "injury_status": null,
+      "adds_48h": 188188
+    },
+    {
+      "player_id": "9511",
+      "name": "Keaton Mitchell",
+      "position": "RB",
+      "team": "LAC",
+      "injury_status": null,
+      "adds_48h": 163935
+    },
+    {
+      "player_id": "ARI",
+      "name": "Arizona Cardinals",
+      "position": "DEF",
+      "team": "ARI",
+      "injury_status": null,
+      "adds_48h": 149080
+    },
+    {
+      "player_id": "4663",
+      "name": "Austin Ekeler",
+      "position": "RB",
+      "team": "WAS",
+      "injury_status": null,
+      "adds_48h": 149000
+    },
+    {
+      "player_id": "6083",
+      "name": "Matt Gay",
+      "position": "K",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 127195
+    },
+    {
+      "player_id": "11256",
+      "name": "Tyson Bagent",
+      "position": "QB",
+      "team": "CHI",
+      "injury_status": null,
+      "adds_48h": 125790
+    },
+    {
+      "player_id": "9482",
+      "name": "Michael Mayer",
+      "position": "TE",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 125334
+    },
+    {
+      "player_id": "4017",
+      "name": "Deshaun Watson",
+      "position": "QB",
+      "team": "CLE",
+      "injury_status": null,
+      "adds_48h": 121256
+    },
+    {
+      "player_id": "8188",
+      "name": "Tyquan Thornton",
+      "position": "WR",
+      "team": "KC",
+      "injury_status": "Out",
+      "adds_48h": 117075
+    },
+    {
+      "player_id": "LV",
+      "name": "Las Vegas Raiders",
+      "position": "DEF",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 116094
+    },
+    {
+      "player_id": "4018",
+      "name": "Joe Mixon",
+      "position": "RB",
+      "team": null,
+      "injury_status": "Active",
+      "adds_48h": 112262
+    },
+    {
+      "player_id": "9480",
+      "name": "Brenton Strange",
+      "position": "TE",
+      "team": "JAX",
+      "injury_status": null,
+      "adds_48h": 103221
+    },
+    {
+      "player_id": "11581",
+      "name": "MarShawn Lloyd",
+      "position": "RB",
       "team": "GB",
       "injury_status": null,
-      "adds_48h": 70208
-    },
-    {
-      "player_id": "8154",
-      "name": "Brian Robinson",
-      "position": "RB",
-      "team": "ATL",
-      "injury_status": null,
-      "adds_48h": 68220
+      "adds_48h": 94743
     }
   ],
   "transactions": [
