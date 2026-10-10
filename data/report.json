@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:58:12+00:00",
+  "generated_at": "2026-10-10T16:58:41+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 5,
@@ -48,7 +48,7 @@
         "name": "Malik Nabers",
         "position": "WR",
         "team": "NYG",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 23.2
       },
       {
@@ -130,7 +130,7 @@
         "name": "Malik Nabers",
         "position": "WR",
         "team": "NYG",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 23.2
       },
       {
@@ -423,7 +423,7 @@
         "name": "Stefon Diggs",
         "position": "WR",
         "team": "WAS",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "points_last_week": 8.5
       },
       {
@@ -431,7 +431,7 @@
         "name": "Jacory Croskey-Merritt",
         "position": "RB",
         "team": "WAS",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 7.0
       },
       {
@@ -449,12 +449,12 @@
   "free_agents_total": 3077,
   "trending_free_agents": [
     {
-      "player_id": "13264",
-      "name": "Dohnte Meyers",
-      "position": "WR",
-      "team": "CIN",
+      "player_id": "10235",
+      "name": "Roschon Johnson",
+      "position": "RB",
+      "team": "CHI",
       "injury_status": null,
-      "adds_48h": 938772
+      "adds_48h": 648384
     },
     {
       "player_id": "8129",
@@ -462,15 +462,15 @@
       "position": "RB",
       "team": "PHI",
       "injury_status": null,
-      "adds_48h": 747480
+      "adds_48h": 597664
     },
     {
-      "player_id": "1166",
-      "name": "Kirk Cousins",
-      "position": "QB",
-      "team": "LV",
+      "player_id": "13264",
+      "name": "Dohnte Meyers",
+      "position": "WR",
+      "team": "CIN",
       "injury_status": null,
-      "adds_48h": 437936
+      "adds_48h": 464661
     },
     {
       "player_id": "13150",
@@ -478,55 +478,15 @@
       "position": "WR",
       "team": "PHI",
       "injury_status": null,
-      "adds_48h": 362600
+      "adds_48h": 352562
     },
     {
-      "player_id": "6083",
-      "name": "Matt Gay",
-      "position": "K",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 270445
-    },
-    {
-      "player_id": "9482",
-      "name": "Michael Mayer",
-      "position": "TE",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 268290
-    },
-    {
-      "player_id": "96",
-      "name": "Aaron Rodgers",
+      "player_id": "1166",
+      "name": "Kirk Cousins",
       "position": "QB",
-      "team": "PIT",
+      "team": "LV",
       "injury_status": null,
-      "adds_48h": 251920
-    },
-    {
-      "player_id": "8154",
-      "name": "Brian Robinson",
-      "position": "RB",
-      "team": "ATL",
-      "injury_status": null,
-      "adds_48h": 237444
-    },
-    {
-      "player_id": "11608",
-      "name": "Isaiah Williams",
-      "position": "WR",
-      "team": "NYJ",
-      "injury_status": null,
-      "adds_48h": 232560
-    },
-    {
-      "player_id": "4993",
-      "name": "Mike Gesicki",
-      "position": "TE",
-      "team": "CIN",
-      "injury_status": null,
-      "adds_48h": 215800
+      "adds_48h": 293376
     },
     {
       "player_id": "11581",
@@ -534,15 +494,47 @@
       "position": "RB",
       "team": "GB",
       "injury_status": null,
-      "adds_48h": 215379
+      "adds_48h": 190215
     },
     {
-      "player_id": "10235",
-      "name": "Roschon Johnson",
-      "position": "RB",
-      "team": "CHI",
+      "player_id": "11628",
+      "name": "Marvin Harrison",
+      "position": "WR",
+      "team": "ARI",
+      "injury_status": "Out",
+      "adds_48h": 179452
+    },
+    {
+      "player_id": "11608",
+      "name": "Isaiah Williams",
+      "position": "WR",
+      "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 201064
+      "adds_48h": 170976
+    },
+    {
+      "player_id": "9482",
+      "name": "Michael Mayer",
+      "position": "TE",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 161784
+    },
+    {
+      "player_id": "96",
+      "name": "Aaron Rodgers",
+      "position": "QB",
+      "team": "PIT",
+      "injury_status": null,
+      "adds_48h": 160852
+    },
+    {
+      "player_id": "8154",
+      "name": "Brian Robinson",
+      "position": "RB",
+      "team": "ATL",
+      "injury_status": null,
+      "adds_48h": 149094
     },
     {
       "player_id": "WAS",
@@ -550,15 +542,7 @@
       "position": "DEF",
       "team": "WAS",
       "injury_status": null,
-      "adds_48h": 197288
-    },
-    {
-      "player_id": "4017",
-      "name": "Deshaun Watson",
-      "position": "QB",
-      "team": "CLE",
-      "injury_status": null,
-      "adds_48h": 187800
+      "adds_48h": 146951
     },
     {
       "player_id": "8134",
@@ -566,47 +550,7 @@
       "position": "WR",
       "team": "BUF",
       "injury_status": null,
-      "adds_48h": 173286
-    },
-    {
-      "player_id": "9758",
-      "name": "C.J. Stroud",
-      "position": "QB",
-      "team": "HOU",
-      "injury_status": null,
-      "adds_48h": 164724
-    },
-    {
-      "player_id": "13298",
-      "name": "KC Concepcion",
-      "position": "WR",
-      "team": "CLE",
-      "injury_status": null,
-      "adds_48h": 156510
-    },
-    {
-      "player_id": "9480",
-      "name": "Brenton Strange",
-      "position": "TE",
-      "team": "JAX",
-      "injury_status": null,
-      "adds_48h": 154575
-    },
-    {
-      "player_id": "650",
-      "name": "Nick Folk",
-      "position": "K",
-      "team": "ATL",
-      "injury_status": null,
-      "adds_48h": 129960
-    },
-    {
-      "player_id": "7528",
-      "name": "Najee Harris",
-      "position": "RB",
-      "team": "NYG",
-      "injury_status": null,
-      "adds_48h": 129550
+      "adds_48h": 138060
     },
     {
       "player_id": "12509",
@@ -614,7 +558,55 @@
       "position": "WR",
       "team": "LAC",
       "injury_status": null,
-      "adds_48h": 129368
+      "adds_48h": 134368
+    },
+    {
+      "player_id": "4993",
+      "name": "Mike Gesicki",
+      "position": "TE",
+      "team": "CIN",
+      "injury_status": null,
+      "adds_48h": 126600
+    },
+    {
+      "player_id": "12542",
+      "name": "Efton Chism",
+      "position": "WR",
+      "team": "NE",
+      "injury_status": null,
+      "adds_48h": 126512
+    },
+    {
+      "player_id": "4017",
+      "name": "Deshaun Watson",
+      "position": "QB",
+      "team": "CLE",
+      "injury_status": null,
+      "adds_48h": 126280
+    },
+    {
+      "player_id": "13298",
+      "name": "KC Concepcion",
+      "position": "WR",
+      "team": "CLE",
+      "injury_status": null,
+      "adds_48h": 118818
+    },
+    {
+      "player_id": "9480",
+      "name": "Brenton Strange",
+      "position": "TE",
+      "team": "JAX",
+      "injury_status": null,
+      "adds_48h": 107010
+    },
+    {
+      "player_id": "9758",
+      "name": "C.J. Stroud",
+      "position": "QB",
+      "team": "HOU",
+      "injury_status": null,
+      "adds_48h": 104713
     },
     {
       "player_id": "NE",
@@ -622,7 +614,31 @@
       "position": "DEF",
       "team": "NE",
       "injury_status": null,
-      "adds_48h": 117481
+      "adds_48h": 94269
+    },
+    {
+      "player_id": "7528",
+      "name": "Najee Harris",
+      "position": "RB",
+      "team": "NYG",
+      "injury_status": null,
+      "adds_48h": 93410
+    },
+    {
+      "player_id": "650",
+      "name": "Nick Folk",
+      "position": "K",
+      "team": "ATL",
+      "injury_status": null,
+      "adds_48h": 88230
+    },
+    {
+      "player_id": "8116",
+      "name": "Pierre Strong",
+      "position": "RB",
+      "team": "GB",
+      "injury_status": null,
+      "adds_48h": 71640
     },
     {
       "player_id": "4663",
@@ -630,26 +646,68 @@
       "position": "RB",
       "team": "WAS",
       "injury_status": null,
-      "adds_48h": 80896
-    },
-    {
-      "player_id": "11834",
-      "name": "Devaughn Vele",
-      "position": "WR",
-      "team": "NO",
-      "injury_status": null,
-      "adds_48h": 74550
-    },
-    {
-      "player_id": "12185",
-      "name": "Spencer Shrader",
-      "position": "K",
-      "team": "IND",
-      "injury_status": null,
-      "adds_48h": 73870
+      "adds_48h": 61732
     }
   ],
   "transactions": [
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-10-10T03:57:03.103000+00:00",
+      "teams": [
+        "Wablo"
+      ],
+      "adds": [
+        {
+          "player_id": "13305",
+          "name": "Mike Washington",
+          "position": "RB",
+          "team": "LV",
+          "injury_status": null,
+          "to": "Wablo"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11631",
+          "name": "Brian Thomas",
+          "position": "WR",
+          "team": "JAX",
+          "injury_status": null,
+          "from": "Wablo"
+        }
+      ],
+      "waiver_bid": null
+    },
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-10-09T19:47:49.795000+00:00",
+      "teams": [
+        "Osama Bin Madden"
+      ],
+      "adds": [
+        {
+          "player_id": "6083",
+          "name": "Matt Gay",
+          "position": "K",
+          "team": "LV",
+          "injury_status": null,
+          "to": "Osama Bin Madden"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11786",
+          "name": "Cam Little",
+          "position": "K",
+          "team": "JAX",
+          "injury_status": null,
+          "from": "Osama Bin Madden"
+        }
+      ],
+      "waiver_bid": null
+    },
     {
       "type": "free_agent",
       "status": "complete",
@@ -722,7 +780,7 @@
           "name": "Rachaad White",
           "position": "RB",
           "team": "WAS",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "from": "andrelqtcome"
         }
       ],
@@ -742,7 +800,7 @@
           "name": "Marvin Harrison",
           "position": "WR",
           "team": "ARI",
-          "injury_status": null,
+          "injury_status": "Out",
           "from": "andrelqtcome"
         }
       ],
@@ -830,7 +888,7 @@
           "name": "Saquon Barkley",
           "position": "RB",
           "team": "PHI",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "to": "andrelqtcome"
         },
         {
@@ -864,7 +922,7 @@
           "name": "Saquon Barkley",
           "position": "RB",
           "team": "PHI",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "from": "Osama Bin Madden"
         },
         {
