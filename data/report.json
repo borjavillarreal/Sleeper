@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:06:05+00:00",
+  "generated_at": "2026-10-17T14:58:17+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 6,
@@ -170,7 +170,7 @@
         "name": "Rashee Rice",
         "position": "WR",
         "team": "KC",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "points_last_week": 0.0
       },
       {
@@ -439,7 +439,7 @@
         "name": "Darren Waller",
         "position": "TE",
         "team": "CAR",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 0.0
       }
     ],
@@ -454,15 +454,7 @@
       "position": "QB",
       "team": "PHI",
       "injury_status": null,
-      "adds_48h": 1309000
-    },
-    {
-      "player_id": "650",
-      "name": "Nick Folk",
-      "position": "K",
-      "team": "ATL",
-      "injury_status": null,
-      "adds_48h": 772188
+      "adds_48h": 1500088
     },
     {
       "player_id": "1166",
@@ -470,7 +462,15 @@
       "position": "QB",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 626608
+      "adds_48h": 579360
+    },
+    {
+      "player_id": "650",
+      "name": "Nick Folk",
+      "position": "K",
+      "team": "ATL",
+      "injury_status": null,
+      "adds_48h": 471738
     },
     {
       "player_id": "11439",
@@ -478,31 +478,7 @@
       "position": "RB",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 490970
-    },
-    {
-      "player_id": "11647",
-      "name": "Kimani Vidal",
-      "position": "RB",
-      "team": "LAC",
-      "injury_status": null,
-      "adds_48h": 352760
-    },
-    {
-      "player_id": "96",
-      "name": "Aaron Rodgers",
-      "position": "QB",
-      "team": "PIT",
-      "injury_status": null,
-      "adds_48h": 324728
-    },
-    {
-      "player_id": "12711",
-      "name": "Tyler Loop",
-      "position": "K",
-      "team": "BAL",
-      "injury_status": null,
-      "adds_48h": 308178
+      "adds_48h": 322330
     },
     {
       "player_id": "9758",
@@ -510,23 +486,15 @@
       "position": "QB",
       "team": "HOU",
       "injury_status": null,
-      "adds_48h": 291326
+      "adds_48h": 283934
     },
     {
-      "player_id": "6083",
-      "name": "Matt Gay",
-      "position": "K",
-      "team": "LV",
+      "player_id": "11647",
+      "name": "Kimani Vidal",
+      "position": "RB",
+      "team": "LAC",
       "injury_status": null,
-      "adds_48h": 279860
-    },
-    {
-      "player_id": "7042",
-      "name": "Tyler Bass",
-      "position": "K",
-      "team": "BUF",
-      "injury_status": null,
-      "adds_48h": 275750
+      "adds_48h": 249690
     },
     {
       "player_id": "11783",
@@ -534,7 +502,23 @@
       "position": "WR",
       "team": "DAL",
       "injury_status": null,
-      "adds_48h": 256560
+      "adds_48h": 217120
+    },
+    {
+      "player_id": "7042",
+      "name": "Tyler Bass",
+      "position": "K",
+      "team": "BUF",
+      "injury_status": null,
+      "adds_48h": 191660
+    },
+    {
+      "player_id": "11557",
+      "name": "Joe Milton",
+      "position": "QB",
+      "team": "PHI",
+      "injury_status": null,
+      "adds_48h": 188496
     },
     {
       "player_id": "10213",
@@ -542,15 +526,7 @@
       "position": "WR",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 223488
-    },
-    {
-      "player_id": "11058",
-      "name": "Blake Grupe",
-      "position": "K",
-      "team": "LAR",
-      "injury_status": null,
-      "adds_48h": 210078
+      "adds_48h": 182496
     },
     {
       "player_id": "2197",
@@ -558,31 +534,23 @@
       "position": "WR",
       "team": "SF",
       "injury_status": null,
-      "adds_48h": 196788
+      "adds_48h": 173204
     },
     {
-      "player_id": "4454",
-      "name": "Kendrick Bourne",
-      "position": "WR",
-      "team": "ARI",
+      "player_id": "6083",
+      "name": "Matt Gay",
+      "position": "K",
+      "team": "LV",
       "injury_status": null,
-      "adds_48h": 185541
+      "adds_48h": 163130
     },
     {
-      "player_id": "NO",
-      "name": "New Orleans Saints",
-      "position": "DEF",
-      "team": "NO",
+      "player_id": "11058",
+      "name": "Blake Grupe",
+      "position": "K",
+      "team": "LAR",
       "injury_status": null,
-      "adds_48h": 174710
-    },
-    {
-      "player_id": "12491",
-      "name": "Corey Kiner",
-      "position": "RB",
-      "team": "NE",
-      "injury_status": null,
-      "adds_48h": 168534
+      "adds_48h": 144765
     },
     {
       "player_id": "1479",
@@ -590,31 +558,7 @@
       "position": "WR",
       "team": "IND",
       "injury_status": null,
-      "adds_48h": 167620
-    },
-    {
-      "player_id": "11559",
-      "name": "Michael Penix",
-      "position": "QB",
-      "team": "ATL",
-      "injury_status": null,
-      "adds_48h": 145920
-    },
-    {
-      "player_id": "5189",
-      "name": "Eddy Pineiro",
-      "position": "K",
-      "team": "SF",
-      "injury_status": null,
-      "adds_48h": 134997
-    },
-    {
-      "player_id": "12469",
-      "name": "Dylan Sampson",
-      "position": "RB",
-      "team": "CLE",
-      "injury_status": "IR",
-      "adds_48h": 112985
+      "adds_48h": 143368
     },
     {
       "player_id": "8116",
@@ -622,15 +566,39 @@
       "position": "RB",
       "team": "GB",
       "injury_status": null,
-      "adds_48h": 106992
+      "adds_48h": 136620
     },
     {
-      "player_id": "12542",
-      "name": "Efton Chism",
-      "position": "WR",
-      "team": "NE",
+      "player_id": "11559",
+      "name": "Michael Penix",
+      "position": "QB",
+      "team": "ATL",
       "injury_status": null,
-      "adds_48h": 104532
+      "adds_48h": 124953
+    },
+    {
+      "player_id": "12711",
+      "name": "Tyler Loop",
+      "position": "K",
+      "team": "BAL",
+      "injury_status": null,
+      "adds_48h": 120078
+    },
+    {
+      "player_id": "10235",
+      "name": "Roschon Johnson",
+      "position": "RB",
+      "team": "CHI",
+      "injury_status": null,
+      "adds_48h": 113080
+    },
+    {
+      "player_id": "4454",
+      "name": "Kendrick Bourne",
+      "position": "WR",
+      "team": "ARI",
+      "injury_status": null,
+      "adds_48h": 109503
     },
     {
       "player_id": "CAR",
@@ -638,7 +606,7 @@
       "position": "DEF",
       "team": "CAR",
       "injury_status": null,
-      "adds_48h": 102909
+      "adds_48h": 108688
     },
     {
       "player_id": "5870",
@@ -646,10 +614,71 @@
       "position": "QB",
       "team": "IND",
       "injury_status": null,
-      "adds_48h": 89805
+      "adds_48h": 105155
+    },
+    {
+      "player_id": "NO",
+      "name": "New Orleans Saints",
+      "position": "DEF",
+      "team": "NO",
+      "injury_status": null,
+      "adds_48h": 104020
+    },
+    {
+      "player_id": "5189",
+      "name": "Eddy Pineiro",
+      "position": "K",
+      "team": "SF",
+      "injury_status": null,
+      "adds_48h": 90063
+    },
+    {
+      "player_id": "13298",
+      "name": "KC Concepcion",
+      "position": "WR",
+      "team": "CLE",
+      "injury_status": null,
+      "adds_48h": 86499
+    },
+    {
+      "player_id": "5995",
+      "name": "Justice Hill",
+      "position": "RB",
+      "team": "BAL",
+      "injury_status": null,
+      "adds_48h": 86283
     }
   ],
   "transactions": [
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-10-16T18:10:50.595000+00:00",
+      "teams": [
+        "Osama Bin Madden"
+      ],
+      "adds": [
+        {
+          "player_id": "96",
+          "name": "Aaron Rodgers",
+          "position": "QB",
+          "team": "PIT",
+          "injury_status": null,
+          "to": "Osama Bin Madden"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "JAX",
+          "injury_status": null,
+          "from": "Osama Bin Madden"
+        }
+      ],
+      "waiver_bid": null
+    },
     {
       "type": "free_agent",
       "status": "complete",
@@ -673,7 +702,7 @@
           "name": "Rico Dowdle",
           "position": "RB",
           "team": "PIT",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "from": "Inappropriate Touchdowns"
         }
       ],
@@ -965,7 +994,7 @@
           "name": "Ladd McConkey",
           "position": "WR",
           "team": "LAC",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "from": "Herbert the Pervert"
         }
       ],
@@ -1226,7 +1255,7 @@
           "name": "Dontayvion Wicks",
           "position": "WR",
           "team": "PHI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "from": "Herbert the Pervert"
         }
       ],
