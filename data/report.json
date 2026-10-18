@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:58:17+00:00",
+  "generated_at": "2026-10-18T15:23:23+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 6,
@@ -231,7 +231,7 @@
         "injury_status": "Out"
       }
     ],
-    "points_this_week": 5.2
+    "points_this_week": 7.3
   },
   "opponent": {
     "roster_id": 8,
@@ -444,7 +444,7 @@
       }
     ],
     "injured_reserve": [],
-    "points_this_week": 31.4
+    "points_this_week": 48.74
   },
   "free_agents_total": 3077,
   "trending_free_agents": [
@@ -454,135 +454,7 @@
       "position": "QB",
       "team": "PHI",
       "injury_status": null,
-      "adds_48h": 1500088
-    },
-    {
-      "player_id": "1166",
-      "name": "Kirk Cousins",
-      "position": "QB",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 579360
-    },
-    {
-      "player_id": "650",
-      "name": "Nick Folk",
-      "position": "K",
-      "team": "ATL",
-      "injury_status": null,
-      "adds_48h": 471738
-    },
-    {
-      "player_id": "11439",
-      "name": "Jaleel McLaughlin",
-      "position": "RB",
-      "team": "CLE",
-      "injury_status": null,
-      "adds_48h": 322330
-    },
-    {
-      "player_id": "9758",
-      "name": "C.J. Stroud",
-      "position": "QB",
-      "team": "HOU",
-      "injury_status": null,
-      "adds_48h": 283934
-    },
-    {
-      "player_id": "11647",
-      "name": "Kimani Vidal",
-      "position": "RB",
-      "team": "LAC",
-      "injury_status": null,
-      "adds_48h": 249690
-    },
-    {
-      "player_id": "11783",
-      "name": "Ryan Flournoy",
-      "position": "WR",
-      "team": "DAL",
-      "injury_status": null,
-      "adds_48h": 217120
-    },
-    {
-      "player_id": "7042",
-      "name": "Tyler Bass",
-      "position": "K",
-      "team": "BUF",
-      "injury_status": null,
-      "adds_48h": 191660
-    },
-    {
-      "player_id": "11557",
-      "name": "Joe Milton",
-      "position": "QB",
-      "team": "PHI",
-      "injury_status": null,
-      "adds_48h": 188496
-    },
-    {
-      "player_id": "10213",
-      "name": "Tre Tucker",
-      "position": "WR",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 182496
-    },
-    {
-      "player_id": "2197",
-      "name": "Brandin Cooks",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": null,
-      "adds_48h": 173204
-    },
-    {
-      "player_id": "6083",
-      "name": "Matt Gay",
-      "position": "K",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 163130
-    },
-    {
-      "player_id": "11058",
-      "name": "Blake Grupe",
-      "position": "K",
-      "team": "LAR",
-      "injury_status": null,
-      "adds_48h": 144765
-    },
-    {
-      "player_id": "1479",
-      "name": "Keenan Allen",
-      "position": "WR",
-      "team": "IND",
-      "injury_status": null,
-      "adds_48h": 143368
-    },
-    {
-      "player_id": "8116",
-      "name": "Pierre Strong",
-      "position": "RB",
-      "team": "GB",
-      "injury_status": null,
-      "adds_48h": 136620
-    },
-    {
-      "player_id": "11559",
-      "name": "Michael Penix",
-      "position": "QB",
-      "team": "ATL",
-      "injury_status": null,
-      "adds_48h": 124953
-    },
-    {
-      "player_id": "12711",
-      "name": "Tyler Loop",
-      "position": "K",
-      "team": "BAL",
-      "injury_status": null,
-      "adds_48h": 120078
+      "adds_48h": 481744
     },
     {
       "player_id": "10235",
@@ -590,47 +462,143 @@
       "position": "RB",
       "team": "CHI",
       "injury_status": null,
-      "adds_48h": 113080
+      "adds_48h": 408088
     },
     {
-      "player_id": "4454",
-      "name": "Kendrick Bourne",
-      "position": "WR",
-      "team": "ARI",
-      "injury_status": null,
-      "adds_48h": 109503
-    },
-    {
-      "player_id": "CAR",
-      "name": "Carolina Panthers",
-      "position": "DEF",
-      "team": "CAR",
-      "injury_status": null,
-      "adds_48h": 108688
-    },
-    {
-      "player_id": "5870",
-      "name": "Daniel Jones",
+      "player_id": "1166",
+      "name": "Kirk Cousins",
       "position": "QB",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 319656
+    },
+    {
+      "player_id": "11557",
+      "name": "Joe Milton",
+      "position": "QB",
+      "team": "PHI",
+      "injury_status": null,
+      "adds_48h": 249008
+    },
+    {
+      "player_id": "8136",
+      "name": "Rachaad White",
+      "position": "RB",
+      "team": "WAS",
+      "injury_status": null,
+      "adds_48h": 242529
+    },
+    {
+      "player_id": "11439",
+      "name": "Jaleel McLaughlin",
+      "position": "RB",
+      "team": "CLE",
+      "injury_status": null,
+      "adds_48h": 224260
+    },
+    {
+      "player_id": "7528",
+      "name": "Najee Harris",
+      "position": "RB",
+      "team": "NYG",
+      "injury_status": null,
+      "adds_48h": 214800
+    },
+    {
+      "player_id": "11647",
+      "name": "Kimani Vidal",
+      "position": "RB",
+      "team": "LAC",
+      "injury_status": null,
+      "adds_48h": 213100
+    },
+    {
+      "player_id": "13413",
+      "name": "Cyrus Allen",
+      "position": "WR",
+      "team": "KC",
+      "injury_status": null,
+      "adds_48h": 190836
+    },
+    {
+      "player_id": "650",
+      "name": "Nick Folk",
+      "position": "K",
+      "team": "ATL",
+      "injury_status": null,
+      "adds_48h": 181800
+    },
+    {
+      "player_id": "9758",
+      "name": "C.J. Stroud",
+      "position": "QB",
+      "team": "HOU",
+      "injury_status": null,
+      "adds_48h": 179802
+    },
+    {
+      "player_id": "1479",
+      "name": "Keenan Allen",
+      "position": "WR",
       "team": "IND",
       "injury_status": null,
-      "adds_48h": 105155
+      "adds_48h": 165748
     },
     {
-      "player_id": "NO",
-      "name": "New Orleans Saints",
-      "position": "DEF",
-      "team": "NO",
-      "injury_status": null,
-      "adds_48h": 104020
-    },
-    {
-      "player_id": "5189",
-      "name": "Eddy Pineiro",
-      "position": "K",
+      "player_id": "2197",
+      "name": "Brandin Cooks",
+      "position": "WR",
       "team": "SF",
       "injury_status": null,
-      "adds_48h": 90063
+      "adds_48h": 159876
+    },
+    {
+      "player_id": "11783",
+      "name": "Ryan Flournoy",
+      "position": "WR",
+      "team": "DAL",
+      "injury_status": null,
+      "adds_48h": 142880
+    },
+    {
+      "player_id": "7042",
+      "name": "Tyler Bass",
+      "position": "K",
+      "team": "BUF",
+      "injury_status": null,
+      "adds_48h": 133560
+    },
+    {
+      "player_id": "10213",
+      "name": "Tre Tucker",
+      "position": "WR",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 117588
+    },
+    {
+      "player_id": "7083",
+      "name": "Tyler Huntley",
+      "position": "QB",
+      "team": "BAL",
+      "injury_status": null,
+      "adds_48h": 110590
+    },
+    {
+      "player_id": "4663",
+      "name": "Austin Ekeler",
+      "position": "RB",
+      "team": "WAS",
+      "injury_status": null,
+      "adds_48h": 105084
+    },
+    {
+      "player_id": "8116",
+      "name": "Pierre Strong",
+      "position": "RB",
+      "team": "GB",
+      "injury_status": null,
+      "adds_48h": 103896
     },
     {
       "player_id": "13298",
@@ -638,7 +606,23 @@
       "position": "WR",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 86499
+      "adds_48h": 98415
+    },
+    {
+      "player_id": "13337",
+      "name": "Emmett Johnson",
+      "position": "RB",
+      "team": "KC",
+      "injury_status": null,
+      "adds_48h": 92520
+    },
+    {
+      "player_id": "11058",
+      "name": "Blake Grupe",
+      "position": "K",
+      "team": "LAR",
+      "injury_status": null,
+      "adds_48h": 90918
     },
     {
       "player_id": "5995",
@@ -646,10 +630,55 @@
       "position": "RB",
       "team": "BAL",
       "injury_status": null,
-      "adds_48h": 86283
+      "adds_48h": 88128
+    },
+    {
+      "player_id": "5870",
+      "name": "Daniel Jones",
+      "position": "QB",
+      "team": "IND",
+      "injury_status": null,
+      "adds_48h": 82500
+    },
+    {
+      "player_id": "13276",
+      "name": "Omar Cooper",
+      "position": "WR",
+      "team": "NYJ",
+      "injury_status": "Questionable",
+      "adds_48h": 81672
     }
   ],
   "transactions": [
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-10-17T23:56:49.002000+00:00",
+      "teams": [
+        "Wablo"
+      ],
+      "adds": [
+        {
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC",
+          "injury_status": null,
+          "to": "Wablo"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6904",
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "team": "PHI",
+          "injury_status": "IR",
+          "from": "Wablo"
+        }
+      ],
+      "waiver_bid": null
+    },
     {
       "type": "free_agent",
       "status": "complete",
@@ -779,7 +808,7 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "to": "Wablo"
         }
       ],
@@ -886,7 +915,7 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "to": "Osama Bin Madden"
         }
       ],
@@ -964,7 +993,7 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "to": "Big TDs"
         }
       ],
@@ -984,7 +1013,7 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "to": "Herbert the Pervert"
         }
       ],
@@ -1052,7 +1081,7 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE",
-          "injury_status": "IR",
+          "injury_status": "Questionable",
           "from": "Downs Toucher"
         }
       ],
