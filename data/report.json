@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:28:44+00:00",
+  "generated_at": "2026-10-24T15:23:40+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 7,
@@ -56,7 +56,7 @@
         "name": "Travis Kelce",
         "position": "TE",
         "team": "KC",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 9.3
       },
       {
@@ -154,7 +154,7 @@
         "name": "Travis Kelce",
         "position": "TE",
         "team": "KC",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 9.3
       },
       {
@@ -186,7 +186,7 @@
         "name": "Rashee Rice",
         "position": "WR",
         "team": "KC",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "points_last_week": 0.0
       },
       {
@@ -383,7 +383,7 @@
         "name": "Mike Evans",
         "position": "WR",
         "team": "SF",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "points_last_week": 12.4
       },
       {
@@ -465,28 +465,20 @@
   "free_agents_total": 3075,
   "trending_free_agents": [
     {
-      "player_id": "6650",
-      "name": "Chase McLaughlin",
-      "position": "K",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 701632
-    },
-    {
-      "player_id": "5849",
-      "name": "Kyler Murray",
-      "position": "QB",
-      "team": "MIN",
-      "injury_status": null,
-      "adds_48h": 369688
-    },
-    {
       "player_id": "13424",
       "name": "Seth McGowan",
       "position": "RB",
       "team": "IND",
       "injury_status": null,
-      "adds_48h": 369000
+      "adds_48h": 570224
+    },
+    {
+      "player_id": "6650",
+      "name": "Chase McLaughlin",
+      "position": "K",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 422328
     },
     {
       "player_id": "8122",
@@ -494,143 +486,7 @@
       "position": "RB",
       "team": "ARI",
       "injury_status": null,
-      "adds_48h": 331126
-    },
-    {
-      "player_id": "8135",
-      "name": "Treylon Burks",
-      "position": "WR",
-      "team": "WAS",
-      "injury_status": null,
-      "adds_48h": 323687
-    },
-    {
-      "player_id": "1433",
-      "name": "Brandon McManus",
-      "position": "K",
-      "team": "LAR",
-      "injury_status": null,
-      "adds_48h": 267200
-    },
-    {
-      "player_id": "11563",
-      "name": "Bo Nix",
-      "position": "QB",
-      "team": "DEN",
-      "injury_status": null,
-      "adds_48h": 226254
-    },
-    {
-      "player_id": "11783",
-      "name": "Ryan Flournoy",
-      "position": "WR",
-      "team": "DAL",
-      "injury_status": null,
-      "adds_48h": 213528
-    },
-    {
-      "player_id": "9230",
-      "name": "Tanner McKee",
-      "position": "QB",
-      "team": "PHI",
-      "injury_status": null,
-      "adds_48h": 208728
-    },
-    {
-      "player_id": "11565",
-      "name": "J.J. McCarthy",
-      "position": "QB",
-      "team": "NYG",
-      "injury_status": null,
-      "adds_48h": 193083
-    },
-    {
-      "player_id": "9502",
-      "name": "Tank Dell",
-      "position": "WR",
-      "team": "HOU",
-      "injury_status": "IR",
-      "adds_48h": 192304
-    },
-    {
-      "player_id": "96",
-      "name": "Aaron Rodgers",
-      "position": "QB",
-      "team": "PIT",
-      "injury_status": null,
-      "adds_48h": 180016
-    },
-    {
-      "player_id": "2197",
-      "name": "Brandin Cooks",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": null,
-      "adds_48h": 174336
-    },
-    {
-      "player_id": "1373",
-      "name": "Geno Smith",
-      "position": "QB",
-      "team": "NYJ",
-      "injury_status": null,
-      "adds_48h": 169320
-    },
-    {
-      "player_id": "11655",
-      "name": "Tyrone Tracy Jr.",
-      "position": "RB",
-      "team": "NYG",
-      "injury_status": null,
-      "adds_48h": 167662
-    },
-    {
-      "player_id": "13545",
-      "name": "Trey Smack",
-      "position": "K",
-      "team": "GB",
-      "injury_status": null,
-      "adds_48h": 156428
-    },
-    {
-      "player_id": "5045",
-      "name": "Courtland Sutton",
-      "position": "WR",
-      "team": "DEN",
-      "injury_status": null,
-      "adds_48h": 155826
-    },
-    {
-      "player_id": "12634",
-      "name": "Jordan Watkins",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": null,
-      "adds_48h": 139948
-    },
-    {
-      "player_id": "8116",
-      "name": "Pierre Strong Jr.",
-      "position": "RB",
-      "team": "GB",
-      "injury_status": null,
-      "adds_48h": 139599
-    },
-    {
-      "player_id": "1166",
-      "name": "Kirk Cousins",
-      "position": "QB",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 138072
-    },
-    {
-      "player_id": "13298",
-      "name": "KC Concepcion Jr.",
-      "position": "WR",
-      "team": "CLE",
-      "injury_status": "Questionable",
-      "adds_48h": 134820
+      "adds_48h": 304084
     },
     {
       "player_id": "4037",
@@ -638,7 +494,79 @@
       "position": "WR",
       "team": "TB",
       "injury_status": null,
-      "adds_48h": 122112
+      "adds_48h": 271788
+    },
+    {
+      "player_id": "5849",
+      "name": "Kyler Murray",
+      "position": "QB",
+      "team": "MIN",
+      "injury_status": null,
+      "adds_48h": 204960
+    },
+    {
+      "player_id": "1433",
+      "name": "Brandon McManus",
+      "position": "K",
+      "team": "LAR",
+      "injury_status": null,
+      "adds_48h": 195688
+    },
+    {
+      "player_id": "11783",
+      "name": "Ryan Flournoy",
+      "position": "WR",
+      "team": "DAL",
+      "injury_status": null,
+      "adds_48h": 191696
+    },
+    {
+      "player_id": "2197",
+      "name": "Brandin Cooks",
+      "position": "WR",
+      "team": "SF",
+      "injury_status": null,
+      "adds_48h": 182848
+    },
+    {
+      "player_id": "8135",
+      "name": "Treylon Burks",
+      "position": "WR",
+      "team": "WAS",
+      "injury_status": null,
+      "adds_48h": 165970
+    },
+    {
+      "player_id": "13317",
+      "name": "Ted Hurst III",
+      "position": "WR",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 146472
+    },
+    {
+      "player_id": "11563",
+      "name": "Bo Nix",
+      "position": "QB",
+      "team": "DEN",
+      "injury_status": null,
+      "adds_48h": 138306
+    },
+    {
+      "player_id": "5045",
+      "name": "Courtland Sutton",
+      "position": "WR",
+      "team": "DEN",
+      "injury_status": null,
+      "adds_48h": 127521
+    },
+    {
+      "player_id": "12634",
+      "name": "Jordan Watkins",
+      "position": "WR",
+      "team": "SF",
+      "injury_status": null,
+      "adds_48h": 125556
     },
     {
       "player_id": "6865",
@@ -646,23 +574,95 @@
       "position": "TE",
       "team": "LAR",
       "injury_status": null,
-      "adds_48h": 112344
+      "adds_48h": 122244
     },
     {
-      "player_id": "12487",
-      "name": "Terrance Ferguson",
-      "position": "TE",
-      "team": "LAR",
+      "player_id": "9230",
+      "name": "Tanner McKee",
+      "position": "QB",
+      "team": "PHI",
+      "injury_status": null,
+      "adds_48h": 117496
+    },
+    {
+      "player_id": "96",
+      "name": "Aaron Rodgers",
+      "position": "QB",
+      "team": "PIT",
+      "injury_status": null,
+      "adds_48h": 114296
+    },
+    {
+      "player_id": "13298",
+      "name": "KC Concepcion Jr.",
+      "position": "WR",
+      "team": "CLE",
+      "injury_status": null,
+      "adds_48h": 111960
+    },
+    {
+      "player_id": "9502",
+      "name": "Tank Dell",
+      "position": "WR",
+      "team": "HOU",
       "injury_status": "IR",
-      "adds_48h": 110032
+      "adds_48h": 99104
+    },
+    {
+      "player_id": "1373",
+      "name": "Geno Smith",
+      "position": "QB",
+      "team": "NYJ",
+      "injury_status": null,
+      "adds_48h": 97384
+    },
+    {
+      "player_id": "13545",
+      "name": "Trey Smack",
+      "position": "K",
+      "team": "GB",
+      "injury_status": null,
+      "adds_48h": 95460
     },
     {
       "player_id": "13296",
       "name": "Caleb Douglas",
       "position": "WR",
       "team": "MIA",
-      "injury_status": "Questionable",
-      "adds_48h": 107704
+      "injury_status": null,
+      "adds_48h": 94672
+    },
+    {
+      "player_id": "11625",
+      "name": "Adonai Mitchell",
+      "position": "WR",
+      "team": "NYJ",
+      "injury_status": null,
+      "adds_48h": 88712
+    },
+    {
+      "player_id": "1166",
+      "name": "Kirk Cousins",
+      "position": "QB",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 85912
+    },
+    {
+      "player_id": "4147",
+      "name": "Samaje Perine",
+      "position": "RB",
+      "team": "CIN",
+      "injury_status": null,
+      "adds_48h": 74444
+    },
+    {
+      "player_id": "4993",
+      "name": "Mike Gesicki",
+      "position": "TE",
+      "team": "CIN",
+      "injury_status": null,
+      "adds_48h": 74224
     }
   ],
   "transactions": [
