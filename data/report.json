@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:53:58+00:00",
+  "generated_at": "2026-10-29T18:01:40+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 8,
@@ -277,7 +277,7 @@
         "name": "A.J. Brown",
         "position": "WR",
         "team": "NE",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 7.8
       },
       {
@@ -399,7 +399,7 @@
         "name": "A.J. Brown",
         "position": "WR",
         "team": "NE",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 7.8
       },
       {
@@ -470,23 +470,7 @@
       "position": "WR",
       "team": "MIA",
       "injury_status": null,
-      "adds_48h": 2418800
-    },
-    {
-      "player_id": "13424",
-      "name": "Seth McGowan",
-      "position": "RB",
-      "team": "IND",
-      "injury_status": null,
-      "adds_48h": 1434704
-    },
-    {
-      "player_id": "NE",
-      "name": "New England Patriots",
-      "position": "DEF",
-      "team": "NE",
-      "injury_status": null,
-      "adds_48h": 1252111
+      "adds_48h": 1627760
     },
     {
       "player_id": "WAS",
@@ -494,31 +478,7 @@
       "position": "DEF",
       "team": "WAS",
       "injury_status": null,
-      "adds_48h": 1052646
-    },
-    {
-      "player_id": "6130",
-      "name": "Devin Singletary",
-      "position": "RB",
-      "team": "NYG",
-      "injury_status": null,
-      "adds_48h": 837810
-    },
-    {
-      "player_id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "position": "DEF",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 674020
-    },
-    {
-      "player_id": "11783",
-      "name": "Ryan Flournoy",
-      "position": "WR",
-      "team": "DAL",
-      "injury_status": null,
-      "adds_48h": 647176
+      "adds_48h": 1397970
     },
     {
       "player_id": "7561",
@@ -526,15 +486,47 @@
       "position": "RB",
       "team": "PHI",
       "injury_status": null,
-      "adds_48h": 643815
+      "adds_48h": 1327797
     },
     {
-      "player_id": "13414",
-      "name": "Kaelon Black",
+      "player_id": "13424",
+      "name": "Seth McGowan",
       "position": "RB",
-      "team": "SF",
+      "team": "IND",
       "injury_status": null,
-      "adds_48h": 541898
+      "adds_48h": 1175328
+    },
+    {
+      "player_id": "6130",
+      "name": "Devin Singletary",
+      "position": "RB",
+      "team": "NYG",
+      "injury_status": null,
+      "adds_48h": 1043109
+    },
+    {
+      "player_id": "NE",
+      "name": "New England Patriots",
+      "position": "DEF",
+      "team": "NE",
+      "injury_status": null,
+      "adds_48h": 900683
+    },
+    {
+      "player_id": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "position": "DEF",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 650700
+    },
+    {
+      "player_id": "11783",
+      "name": "Ryan Flournoy",
+      "position": "WR",
+      "team": "DAL",
+      "injury_status": null,
+      "adds_48h": 621048
     },
     {
       "player_id": "6650",
@@ -542,15 +534,15 @@
       "position": "K",
       "team": "TB",
       "injury_status": null,
-      "adds_48h": 537064
+      "adds_48h": 478000
     },
     {
-      "player_id": "13294",
-      "name": "Makai Lemon",
-      "position": "WR",
+      "player_id": "12457",
+      "name": "Jaydon Blue",
+      "position": "RB",
       "team": "PHI",
       "injury_status": null,
-      "adds_48h": 370604
+      "adds_48h": 404832
     },
     {
       "player_id": "7042",
@@ -558,23 +550,15 @@
       "position": "K",
       "team": "BUF",
       "injury_status": null,
-      "adds_48h": 365685
+      "adds_48h": 398405
     },
     {
-      "player_id": "12498",
-      "name": "Mason Taylor",
-      "position": "TE",
-      "team": "NYJ",
-      "injury_status": null,
-      "adds_48h": 330180
-    },
-    {
-      "player_id": "12469",
-      "name": "Dylan Sampson",
+      "player_id": "13414",
+      "name": "Kaelon Black",
       "position": "RB",
-      "team": "CLE",
+      "team": "SF",
       "injury_status": null,
-      "adds_48h": 318385
+      "adds_48h": 371238
     },
     {
       "player_id": "12482",
@@ -582,7 +566,31 @@
       "position": "WR",
       "team": "GB",
       "injury_status": null,
-      "adds_48h": 315259
+      "adds_48h": 359814
+    },
+    {
+      "player_id": "13294",
+      "name": "Makai Lemon",
+      "position": "WR",
+      "team": "PHI",
+      "injury_status": null,
+      "adds_48h": 304364
+    },
+    {
+      "player_id": "12498",
+      "name": "Mason Taylor",
+      "position": "TE",
+      "team": "NYJ",
+      "injury_status": null,
+      "adds_48h": 300365
+    },
+    {
+      "player_id": "12469",
+      "name": "Dylan Sampson",
+      "position": "RB",
+      "team": "CLE",
+      "injury_status": "Questionable",
+      "adds_48h": 269200
     },
     {
       "player_id": "11637",
@@ -590,7 +598,15 @@
       "position": "WR",
       "team": "BUF",
       "injury_status": null,
-      "adds_48h": 298719
+      "adds_48h": 262206
+    },
+    {
+      "player_id": "8135",
+      "name": "Treylon Burks",
+      "position": "WR",
+      "team": "WAS",
+      "injury_status": "Questionable",
+      "adds_48h": 254359
     },
     {
       "player_id": "8136",
@@ -598,47 +614,15 @@
       "position": "RB",
       "team": "WAS",
       "injury_status": null,
-      "adds_48h": 291177
+      "adds_48h": 245550
     },
     {
       "player_id": "5947",
       "name": "Jakobi Meyers",
       "position": "WR",
       "team": "JAX",
-      "injury_status": null,
-      "adds_48h": 287544
-    },
-    {
-      "player_id": "8135",
-      "name": "Treylon Burks",
-      "position": "WR",
-      "team": "WAS",
-      "injury_status": null,
-      "adds_48h": 258538
-    },
-    {
-      "player_id": "11435",
-      "name": "Emanuel Wilson",
-      "position": "RB",
-      "team": "SEA",
-      "injury_status": null,
-      "adds_48h": 244242
-    },
-    {
-      "player_id": "8161",
-      "name": "Malik Willis",
-      "position": "QB",
-      "team": "MIA",
-      "injury_status": null,
-      "adds_48h": 204078
-    },
-    {
-      "player_id": "8129",
-      "name": "Dameon Pierce",
-      "position": "RB",
-      "team": "PHI",
       "injury_status": "Questionable",
-      "adds_48h": 162864
+      "adds_48h": 228888
     },
     {
       "player_id": "LV",
@@ -646,7 +630,23 @@
       "position": "DEF",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 159894
+      "adds_48h": 216804
+    },
+    {
+      "player_id": "11435",
+      "name": "Emanuel Wilson",
+      "position": "RB",
+      "team": "SEA",
+      "injury_status": null,
+      "adds_48h": 215865
+    },
+    {
+      "player_id": "8161",
+      "name": "Malik Willis",
+      "position": "QB",
+      "team": "MIA",
+      "injury_status": null,
+      "adds_48h": 179361
     },
     {
       "player_id": "10219",
@@ -654,15 +654,15 @@
       "position": "RB",
       "team": "JAX",
       "injury_status": null,
-      "adds_48h": 149859
+      "adds_48h": 168840
     },
     {
-      "player_id": "1373",
-      "name": "Geno Smith",
-      "position": "QB",
-      "team": "NYJ",
+      "player_id": "DET",
+      "name": "Detroit Lions",
+      "position": "DEF",
+      "team": "DET",
       "injury_status": null,
-      "adds_48h": 147612
+      "adds_48h": 166122
     }
   ],
   "transactions": [
