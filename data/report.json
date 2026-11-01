@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:49:41+00:00",
+  "generated_at": "2026-11-01T17:39:07+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 8,
@@ -273,12 +273,12 @@
         "points_last_week": 0.0
       },
       {
-        "player_id": "5859",
-        "name": "A.J. Brown",
+        "player_id": "4983",
+        "name": "DJ Moore",
         "position": "WR",
-        "team": "NE",
-        "injury_status": "Questionable",
-        "points_last_week": 7.8
+        "team": "BUF",
+        "injury_status": null,
+        "points_last_week": 0.0
       },
       {
         "player_id": "9484",
@@ -289,12 +289,12 @@
         "points_last_week": 14.8
       },
       {
-        "player_id": "4983",
-        "name": "DJ Moore",
-        "position": "WR",
-        "team": "BUF",
-        "injury_status": "Questionable",
-        "points_last_week": 0.0
+        "player_id": "5022",
+        "name": "Dallas Goedert",
+        "position": "TE",
+        "team": "PHI",
+        "injury_status": null,
+        "points_last_week": 9.8
       },
       {
         "player_id": "9224",
@@ -399,7 +399,7 @@
         "name": "A.J. Brown",
         "position": "WR",
         "team": "NE",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "points_last_week": 7.8
       },
       {
@@ -423,7 +423,7 @@
         "name": "DJ Moore",
         "position": "WR",
         "team": "BUF",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 0.0
       },
       {
@@ -465,52 +465,12 @@
   "free_agents_total": 3077,
   "trending_free_agents": [
     {
-      "player_id": "7561",
-      "name": "Elijah Mitchell",
-      "position": "RB",
-      "team": "PHI",
-      "injury_status": null,
-      "adds_48h": 648495
-    },
-    {
-      "player_id": "12457",
-      "name": "Jaydon Blue",
-      "position": "RB",
-      "team": "PHI",
-      "injury_status": null,
-      "adds_48h": 437232
-    },
-    {
       "player_id": "6130",
       "name": "Devin Singletary",
       "position": "RB",
       "team": "NYG",
       "injury_status": null,
-      "adds_48h": 378099
-    },
-    {
-      "player_id": "11783",
-      "name": "Ryan Flournoy",
-      "position": "WR",
-      "team": "DAL",
-      "injury_status": null,
-      "adds_48h": 313696
-    },
-    {
-      "player_id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "position": "DEF",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 265015
-    },
-    {
-      "player_id": "12498",
-      "name": "Mason Taylor",
-      "position": "TE",
-      "team": "NYJ",
-      "injury_status": null,
-      "adds_48h": 210625
+      "adds_48h": 560079
     },
     {
       "player_id": "13424",
@@ -518,31 +478,7 @@
       "position": "RB",
       "team": "IND",
       "injury_status": null,
-      "adds_48h": 199368
-    },
-    {
-      "player_id": "6650",
-      "name": "Chase McLaughlin",
-      "position": "K",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 183920
-    },
-    {
-      "player_id": "13296",
-      "name": "Caleb Douglas",
-      "position": "WR",
-      "team": "MIA",
-      "injury_status": null,
-      "adds_48h": 182920
-    },
-    {
-      "player_id": "7042",
-      "name": "Tyler Bass",
-      "position": "K",
-      "team": "BUF",
-      "injury_status": null,
-      "adds_48h": 172710
+      "adds_48h": 479480
     },
     {
       "player_id": "4147",
@@ -550,23 +486,23 @@
       "position": "RB",
       "team": "CIN",
       "injury_status": null,
-      "adds_48h": 144840
+      "adds_48h": 410044
     },
     {
-      "player_id": "LV",
-      "name": "Las Vegas Raiders",
-      "position": "DEF",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 125874
-    },
-    {
-      "player_id": "11637",
-      "name": "Keon Coleman",
+      "player_id": "11783",
+      "name": "Ryan Flournoy",
       "position": "WR",
-      "team": "BUF",
+      "team": "DAL",
       "injury_status": null,
-      "adds_48h": 120789
+      "adds_48h": 365048
+    },
+    {
+      "player_id": "7561",
+      "name": "Elijah Mitchell",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": null,
+      "adds_48h": 286362
     },
     {
       "player_id": "12499",
@@ -574,31 +510,31 @@
       "position": "WR",
       "team": "TEN",
       "injury_status": null,
-      "adds_48h": 105388
+      "adds_48h": 231568
     },
     {
-      "player_id": "DET",
-      "name": "Detroit Lions",
-      "position": "DEF",
-      "team": "DET",
-      "injury_status": null,
-      "adds_48h": 102330
-    },
-    {
-      "player_id": "13286",
-      "name": "Jadarian Price",
+      "player_id": "12491",
+      "name": "Corey Kiner",
       "position": "RB",
-      "team": "SEA",
-      "injury_status": "IR",
-      "adds_48h": 93204
+      "team": "NE",
+      "injury_status": null,
+      "adds_48h": 196692
     },
     {
-      "player_id": "1373",
-      "name": "Geno Smith",
-      "position": "QB",
+      "player_id": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "position": "DEF",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 186195
+    },
+    {
+      "player_id": "12498",
+      "name": "Mason Taylor",
+      "position": "TE",
       "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 81272
+      "adds_48h": 160375
     },
     {
       "player_id": "10219",
@@ -606,47 +542,23 @@
       "position": "RB",
       "team": "JAX",
       "injury_status": null,
-      "adds_48h": 77877
+      "adds_48h": 149022
     },
     {
-      "player_id": "11647",
-      "name": "Kimani Vidal",
-      "position": "RB",
-      "team": "LAC",
-      "injury_status": null,
-      "adds_48h": 75570
-    },
-    {
-      "player_id": "12482",
-      "name": "Savion Williams",
+      "player_id": "11637",
+      "name": "Keon Coleman",
       "position": "WR",
-      "team": "GB",
+      "team": "BUF",
       "injury_status": null,
-      "adds_48h": 71176
+      "adds_48h": 138474
     },
     {
-      "player_id": "11435",
-      "name": "Emanuel Wilson",
+      "player_id": "13286",
+      "name": "Jadarian Price",
       "position": "RB",
       "team": "SEA",
-      "injury_status": null,
-      "adds_48h": 70434
-    },
-    {
-      "player_id": "4454",
-      "name": "Kendrick Bourne",
-      "position": "WR",
-      "team": "ARI",
-      "injury_status": null,
-      "adds_48h": 70131
-    },
-    {
-      "player_id": "11603",
-      "name": "AJ Barner",
-      "position": "TE",
-      "team": "SEA",
-      "injury_status": null,
-      "adds_48h": 65106
+      "injury_status": "IR",
+      "adds_48h": 135738
     },
     {
       "player_id": "13150",
@@ -654,15 +566,103 @@
       "position": "WR",
       "team": "PHI",
       "injury_status": null,
-      "adds_48h": 59311
+      "adds_48h": 133945
     },
     {
-      "player_id": "5947",
-      "name": "Jakobi Meyers",
+      "player_id": "11647",
+      "name": "Kimani Vidal",
+      "position": "RB",
+      "team": "LAC",
+      "injury_status": null,
+      "adds_48h": 125750
+    },
+    {
+      "player_id": "7042",
+      "name": "Tyler Bass",
+      "position": "K",
+      "team": "BUF",
+      "injury_status": null,
+      "adds_48h": 109315
+    },
+    {
+      "player_id": "DET",
+      "name": "Detroit Lions",
+      "position": "DEF",
+      "team": "DET",
+      "injury_status": null,
+      "adds_48h": 106020
+    },
+    {
+      "player_id": "12457",
+      "name": "Jaydon Blue",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": null,
+      "adds_48h": 94144
+    },
+    {
+      "player_id": "12547",
+      "name": "Kyle Williams",
       "position": "WR",
-      "team": "JAX",
-      "injury_status": "Questionable",
-      "adds_48h": 51150
+      "team": "NE",
+      "injury_status": null,
+      "adds_48h": 87670
+    },
+    {
+      "player_id": "13296",
+      "name": "Caleb Douglas",
+      "position": "WR",
+      "team": "MIA",
+      "injury_status": null,
+      "adds_48h": 84664
+    },
+    {
+      "player_id": "6650",
+      "name": "Chase McLaughlin",
+      "position": "K",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 78720
+    },
+    {
+      "player_id": "LV",
+      "name": "Las Vegas Raiders",
+      "position": "DEF",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 75840
+    },
+    {
+      "player_id": "12542",
+      "name": "Efton Chism III",
+      "position": "WR",
+      "team": "NE",
+      "injury_status": null,
+      "adds_48h": 73816
+    },
+    {
+      "player_id": "12469",
+      "name": "Dylan Sampson",
+      "position": "RB",
+      "team": "CLE",
+      "injury_status": null,
+      "adds_48h": 71955
+    },
+    {
+      "player_id": "4454",
+      "name": "Kendrick Bourne",
+      "position": "WR",
+      "team": "ARI",
+      "injury_status": null,
+      "adds_48h": 63951
+    },
+    {
+      "player_id": "11435",
+      "name": "Emanuel Wilson",
+      "position": "RB",
+      "team": "SEA",
+      "injury_status": null,
+      "adds_48h": 62343
     }
   ],
   "transactions": [
