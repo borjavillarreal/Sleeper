@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:02:46+00:00",
+  "generated_at": "2026-11-04T19:22:24+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 9,
@@ -64,7 +64,7 @@
         "name": "Garrett Wilson",
         "position": "WR",
         "team": "NYJ",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 14.3
       },
       {
@@ -130,7 +130,7 @@
         "name": "Garrett Wilson",
         "position": "WR",
         "team": "NYJ",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 14.3
       },
       {
@@ -186,7 +186,7 @@
         "name": "Woody Marks",
         "position": "RB",
         "team": "HOU",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 0.0
       },
       {
@@ -423,7 +423,7 @@
         "name": "Jake Ferguson",
         "position": "TE",
         "team": "DAL",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "points_last_week": 0.0
       },
       {
@@ -431,7 +431,7 @@
         "name": "Breece Hall",
         "position": "RB",
         "team": "NYJ",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "points_last_week": 0.0
       }
     ],
@@ -446,23 +446,23 @@
     ],
     "points_this_week": 0.0
   },
-  "free_agents_total": 3081,
+  "free_agents_total": 3078,
   "trending_free_agents": [
-    {
-      "player_id": "6011",
-      "name": "Gardner Minshew II",
-      "position": "QB",
-      "team": "ARI",
-      "injury_status": null,
-      "adds_48h": 988780
-    },
     {
       "player_id": "6130",
       "name": "Devin Singletary",
       "position": "RB",
       "team": "NYG",
       "injury_status": null,
-      "adds_48h": 802827
+      "adds_48h": 1612215
+    },
+    {
+      "player_id": "6011",
+      "name": "Gardner Minshew II",
+      "position": "QB",
+      "team": "ARI",
+      "injury_status": null,
+      "adds_48h": 1472532
     },
     {
       "player_id": "13337",
@@ -470,7 +470,7 @@
       "position": "RB",
       "team": "KC",
       "injury_status": null,
-      "adds_48h": 791649
+      "adds_48h": 1342908
     },
     {
       "player_id": "DET",
@@ -478,71 +478,7 @@
       "position": "DEF",
       "team": "DET",
       "injury_status": null,
-      "adds_48h": 401949
-    },
-    {
-      "player_id": "7042",
-      "name": "Tyler Bass",
-      "position": "K",
-      "team": "BUF",
-      "injury_status": null,
-      "adds_48h": 332295
-    },
-    {
-      "player_id": "4993",
-      "name": "Mike Gesicki",
-      "position": "TE",
-      "team": "CIN",
-      "injury_status": null,
-      "adds_48h": 268488
-    },
-    {
-      "player_id": "8161",
-      "name": "Malik Willis",
-      "position": "QB",
-      "team": "MIA",
-      "injury_status": null,
-      "adds_48h": 237475
-    },
-    {
-      "player_id": "8135",
-      "name": "Treylon Burks",
-      "position": "WR",
-      "team": "WAS",
-      "injury_status": null,
-      "adds_48h": 204596
-    },
-    {
-      "player_id": "SF",
-      "name": "San Francisco 49ers",
-      "position": "DEF",
-      "team": "SF",
-      "injury_status": null,
-      "adds_48h": 164970
-    },
-    {
-      "player_id": "NO",
-      "name": "New Orleans Saints",
-      "position": "DEF",
-      "team": "NO",
-      "injury_status": null,
-      "adds_48h": 159820
-    },
-    {
-      "player_id": "11729",
-      "name": "Sione Vaki",
-      "position": "RB",
-      "team": "DET",
-      "injury_status": null,
-      "adds_48h": 141988
-    },
-    {
-      "player_id": "13286",
-      "name": "Jadarian Price",
-      "position": "RB",
-      "team": "SEA",
-      "injury_status": null,
-      "adds_48h": 141867
+      "adds_48h": 977805
     },
     {
       "player_id": "10219",
@@ -550,7 +486,47 @@
       "position": "RB",
       "team": "JAX",
       "injury_status": "Questionable",
-      "adds_48h": 135909
+      "adds_48h": 738936
+    },
+    {
+      "player_id": "7042",
+      "name": "Tyler Bass",
+      "position": "K",
+      "team": "BUF",
+      "injury_status": null,
+      "adds_48h": 707325
+    },
+    {
+      "player_id": "8161",
+      "name": "Malik Willis",
+      "position": "QB",
+      "team": "MIA",
+      "injury_status": null,
+      "adds_48h": 662655
+    },
+    {
+      "player_id": "4993",
+      "name": "Mike Gesicki",
+      "position": "TE",
+      "team": "CIN",
+      "injury_status": null,
+      "adds_48h": 607444
+    },
+    {
+      "player_id": "NO",
+      "name": "New Orleans Saints",
+      "position": "DEF",
+      "team": "NO",
+      "injury_status": null,
+      "adds_48h": 580925
+    },
+    {
+      "player_id": "8135",
+      "name": "Treylon Burks",
+      "position": "WR",
+      "team": "WAS",
+      "injury_status": null,
+      "adds_48h": 426188
     },
     {
       "player_id": "12469",
@@ -558,7 +534,7 @@
       "position": "RB",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 135570
+      "adds_48h": 397990
     },
     {
       "player_id": "NYG",
@@ -566,79 +542,15 @@
       "position": "DEF",
       "team": "NYG",
       "injury_status": null,
-      "adds_48h": 120312
+      "adds_48h": 395776
     },
     {
-      "player_id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "position": "DEF",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 117700
-    },
-    {
-      "player_id": "13305",
-      "name": "Mike Washington Jr.",
+      "player_id": "11729",
+      "name": "Sione Vaki",
       "position": "RB",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 112094
-    },
-    {
-      "player_id": "11539",
-      "name": "Jake Bates",
-      "position": "K",
       "team": "DET",
       "injury_status": null,
-      "adds_48h": 105184
-    },
-    {
-      "player_id": "12540",
-      "name": "Chimere Dike",
-      "position": "WR",
-      "team": "TEN",
-      "injury_status": null,
-      "adds_48h": 100782
-    },
-    {
-      "player_id": "13424",
-      "name": "Seth McGowan",
-      "position": "RB",
-      "team": "IND",
-      "injury_status": null,
-      "adds_48h": 96880
-    },
-    {
-      "player_id": "6650",
-      "name": "Chase McLaughlin",
-      "position": "K",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 90048
-    },
-    {
-      "player_id": "11563",
-      "name": "Bo Nix",
-      "position": "QB",
-      "team": "DEN",
-      "injury_status": null,
-      "adds_48h": 89172
-    },
-    {
-      "player_id": "4039",
-      "name": "Cooper Kupp",
-      "position": "WR",
-      "team": "SEA",
-      "injury_status": null,
-      "adds_48h": 87546
-    },
-    {
-      "player_id": "13414",
-      "name": "Kaelon Black",
-      "position": "RB",
-      "team": "SF",
-      "injury_status": null,
-      "adds_48h": 79877
+      "adds_48h": 344589
     },
     {
       "player_id": "7561",
@@ -646,10 +558,245 @@
       "position": "RB",
       "team": "PHI",
       "injury_status": null,
-      "adds_48h": 75294
+      "adds_48h": 292158
+    },
+    {
+      "player_id": "SF",
+      "name": "San Francisco 49ers",
+      "position": "DEF",
+      "team": "SF",
+      "injury_status": null,
+      "adds_48h": 269562
+    },
+    {
+      "player_id": "13414",
+      "name": "Kaelon Black",
+      "position": "RB",
+      "team": "SF",
+      "injury_status": null,
+      "adds_48h": 205968
+    },
+    {
+      "player_id": "12540",
+      "name": "Chimere Dike",
+      "position": "WR",
+      "team": "TEN",
+      "injury_status": null,
+      "adds_48h": 193833
+    },
+    {
+      "player_id": "13424",
+      "name": "Seth McGowan",
+      "position": "RB",
+      "team": "IND",
+      "injury_status": null,
+      "adds_48h": 179768
+    },
+    {
+      "player_id": "12487",
+      "name": "Terrance Ferguson",
+      "position": "TE",
+      "team": "LAR",
+      "injury_status": "IR",
+      "adds_48h": 177744
+    },
+    {
+      "player_id": "13296",
+      "name": "Caleb Douglas",
+      "position": "WR",
+      "team": "MIA",
+      "injury_status": null,
+      "adds_48h": 160536
+    },
+    {
+      "player_id": "9482",
+      "name": "Michael Mayer",
+      "position": "TE",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 157527
+    },
+    {
+      "player_id": "6650",
+      "name": "Chase McLaughlin",
+      "position": "K",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 151760
+    },
+    {
+      "player_id": "11565",
+      "name": "J.J. McCarthy",
+      "position": "QB",
+      "team": "NYG",
+      "injury_status": null,
+      "adds_48h": 151599
+    },
+    {
+      "player_id": "3161",
+      "name": "Carson Wentz",
+      "position": "QB",
+      "team": "MIN",
+      "injury_status": null,
+      "adds_48h": 140910
+    },
+    {
+      "player_id": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "position": "DEF",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 132565
     }
   ],
   "transactions": [
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-11-04T13:41:11.207000+00:00",
+      "teams": [
+        "I didn’t hear the bell"
+      ],
+      "adds": [
+        {
+          "player_id": "11539",
+          "name": "Jake Bates",
+          "position": "K",
+          "team": "DET",
+          "injury_status": null,
+          "to": "I didn’t hear the bell"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "1945",
+          "name": "Chris Boswell",
+          "position": "K",
+          "team": "PIT",
+          "injury_status": null,
+          "from": "I didn’t hear the bell"
+        }
+      ],
+      "waiver_bid": null
+    },
+    {
+      "type": "waiver",
+      "status": "complete",
+      "created": "2026-11-04T04:16:38.940000+00:00",
+      "teams": [
+        "Osama Bin Madden"
+      ],
+      "adds": [
+        {
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO",
+          "injury_status": null,
+          "to": "Osama Bin Madden"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13296",
+          "name": "Caleb Douglas",
+          "position": "WR",
+          "team": "MIA",
+          "injury_status": null,
+          "from": "Osama Bin Madden"
+        }
+      ],
+      "waiver_bid": null
+    },
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-11-04T04:15:23.302000+00:00",
+      "teams": [
+        "Osama Bin Madden"
+      ],
+      "adds": [
+        {
+          "player_id": "13286",
+          "name": "Jadarian Price",
+          "position": "RB",
+          "team": "SEA",
+          "injury_status": null,
+          "to": "Osama Bin Madden"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF",
+          "injury_status": null,
+          "from": "Osama Bin Madden"
+        }
+      ],
+      "waiver_bid": null
+    },
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-11-04T04:10:41.536000+00:00",
+      "teams": [
+        "Osama Bin Madden"
+      ],
+      "adds": [
+        {
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF",
+          "injury_status": null,
+          "to": "Osama Bin Madden"
+        }
+      ],
+      "drops": [],
+      "waiver_bid": null
+    },
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-11-04T04:10:05.376000+00:00",
+      "teams": [
+        "Osama Bin Madden"
+      ],
+      "adds": [
+        {
+          "player_id": "13296",
+          "name": "Caleb Douglas",
+          "position": "WR",
+          "team": "MIA",
+          "injury_status": null,
+          "to": "Osama Bin Madden"
+        }
+      ],
+      "drops": [],
+      "waiver_bid": null
+    },
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-11-03T21:19:58.572000+00:00",
+      "teams": [
+        "Big TDs"
+      ],
+      "adds": [
+        {
+          "player_id": "13305",
+          "name": "Mike Washington Jr.",
+          "position": "RB",
+          "team": "LV",
+          "injury_status": null,
+          "to": "Big TDs"
+        }
+      ],
+      "drops": [],
+      "waiver_bid": null
+    },
     {
       "type": "free_agent",
       "status": "complete",
