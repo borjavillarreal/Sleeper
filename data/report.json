@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T19:22:24+00:00",
+  "generated_at": "2026-11-05T19:29:21+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 9,
@@ -48,7 +48,7 @@
         "name": "Rashee Rice",
         "position": "WR",
         "team": "KC",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 18.3
       },
       {
@@ -56,7 +56,7 @@
         "name": "Travis Kelce",
         "position": "TE",
         "team": "KC",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 11.7
       },
       {
@@ -72,7 +72,7 @@
         "name": "Malik Nabers",
         "position": "WR",
         "team": "NYG",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 0.0
       },
       {
@@ -122,7 +122,7 @@
         "name": "Rashee Rice",
         "position": "WR",
         "team": "KC",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 18.3
       },
       {
@@ -154,7 +154,7 @@
         "name": "Travis Kelce",
         "position": "TE",
         "team": "KC",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 11.7
       },
       {
@@ -178,7 +178,7 @@
         "name": "Malik Nabers",
         "position": "WR",
         "team": "NYG",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 0.0
       },
       {
@@ -237,7 +237,7 @@
         "name": "Saquon Barkley",
         "position": "RB",
         "team": "PHI",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 12.4
       },
       {
@@ -253,7 +253,7 @@
         "name": "George Pickens",
         "position": "WR",
         "team": "DAL",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 6.8
       },
       {
@@ -359,7 +359,7 @@
         "name": "Saquon Barkley",
         "position": "RB",
         "team": "PHI",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 12.4
       },
       {
@@ -367,7 +367,7 @@
         "name": "Matthew Stafford",
         "position": "QB",
         "team": "LAR",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 10.28
       },
       {
@@ -383,7 +383,7 @@
         "name": "George Pickens",
         "position": "WR",
         "team": "DAL",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 6.8
       },
       {
@@ -454,23 +454,15 @@
       "position": "RB",
       "team": "NYG",
       "injury_status": null,
-      "adds_48h": 1612215
+      "adds_48h": 1586745
     },
     {
-      "player_id": "6011",
-      "name": "Gardner Minshew II",
-      "position": "QB",
-      "team": "ARI",
-      "injury_status": null,
-      "adds_48h": 1472532
-    },
-    {
-      "player_id": "13337",
-      "name": "Emmett Johnson",
+      "player_id": "10219",
+      "name": "Chris Rodriguez Jr.",
       "position": "RB",
-      "team": "KC",
+      "team": "JAX",
       "injury_status": null,
-      "adds_48h": 1342908
+      "adds_48h": 1211841
     },
     {
       "player_id": "DET",
@@ -478,23 +470,23 @@
       "position": "DEF",
       "team": "DET",
       "injury_status": null,
-      "adds_48h": 977805
+      "adds_48h": 1012572
     },
     {
-      "player_id": "10219",
-      "name": "Chris Rodriguez Jr.",
+      "player_id": "13337",
+      "name": "Emmett Johnson",
       "position": "RB",
-      "team": "JAX",
-      "injury_status": "Questionable",
-      "adds_48h": 738936
+      "team": "KC",
+      "injury_status": null,
+      "adds_48h": 1008054
     },
     {
-      "player_id": "7042",
-      "name": "Tyler Bass",
-      "position": "K",
-      "team": "BUF",
+      "player_id": "6011",
+      "name": "Gardner Minshew II",
+      "position": "QB",
+      "team": "ARI",
       "injury_status": null,
-      "adds_48h": 707325
+      "adds_48h": 801048
     },
     {
       "player_id": "8161",
@@ -502,15 +494,7 @@
       "position": "QB",
       "team": "MIA",
       "injury_status": null,
-      "adds_48h": 662655
-    },
-    {
-      "player_id": "4993",
-      "name": "Mike Gesicki",
-      "position": "TE",
-      "team": "CIN",
-      "injury_status": null,
-      "adds_48h": 607444
+      "adds_48h": 730884
     },
     {
       "player_id": "NO",
@@ -518,39 +502,31 @@
       "position": "DEF",
       "team": "NO",
       "injury_status": null,
-      "adds_48h": 580925
+      "adds_48h": 683760
     },
     {
-      "player_id": "8135",
-      "name": "Treylon Burks",
-      "position": "WR",
-      "team": "WAS",
+      "player_id": "7042",
+      "name": "Tyler Bass",
+      "position": "K",
+      "team": "BUF",
       "injury_status": null,
-      "adds_48h": 426188
+      "adds_48h": 604535
     },
     {
-      "player_id": "12469",
-      "name": "Dylan Sampson",
-      "position": "RB",
-      "team": "CLE",
+      "player_id": "4993",
+      "name": "Mike Gesicki",
+      "position": "TE",
+      "team": "CIN",
       "injury_status": null,
-      "adds_48h": 397990
+      "adds_48h": 534940
     },
     {
-      "player_id": "NYG",
-      "name": "New York Giants",
-      "position": "DEF",
-      "team": "NYG",
+      "player_id": "11557",
+      "name": "Joe Milton",
+      "position": "QB",
+      "team": "PHI",
       "injury_status": null,
-      "adds_48h": 395776
-    },
-    {
-      "player_id": "11729",
-      "name": "Sione Vaki",
-      "position": "RB",
-      "team": "DET",
-      "injury_status": null,
-      "adds_48h": 344589
+      "adds_48h": 525036
     },
     {
       "player_id": "7561",
@@ -558,79 +534,39 @@
       "position": "RB",
       "team": "PHI",
       "injury_status": null,
-      "adds_48h": 292158
+      "adds_48h": 417069
     },
     {
-      "player_id": "SF",
-      "name": "San Francisco 49ers",
+      "player_id": "12469",
+      "name": "Dylan Sampson",
+      "position": "RB",
+      "team": "CLE",
+      "injury_status": null,
+      "adds_48h": 390470
+    },
+    {
+      "player_id": "NYG",
+      "name": "New York Giants",
       "position": "DEF",
-      "team": "SF",
-      "injury_status": null,
-      "adds_48h": 269562
-    },
-    {
-      "player_id": "13414",
-      "name": "Kaelon Black",
-      "position": "RB",
-      "team": "SF",
-      "injury_status": null,
-      "adds_48h": 205968
-    },
-    {
-      "player_id": "12540",
-      "name": "Chimere Dike",
-      "position": "WR",
-      "team": "TEN",
-      "injury_status": null,
-      "adds_48h": 193833
-    },
-    {
-      "player_id": "13424",
-      "name": "Seth McGowan",
-      "position": "RB",
-      "team": "IND",
-      "injury_status": null,
-      "adds_48h": 179768
-    },
-    {
-      "player_id": "12487",
-      "name": "Terrance Ferguson",
-      "position": "TE",
-      "team": "LAR",
-      "injury_status": "IR",
-      "adds_48h": 177744
-    },
-    {
-      "player_id": "13296",
-      "name": "Caleb Douglas",
-      "position": "WR",
-      "team": "MIA",
-      "injury_status": null,
-      "adds_48h": 160536
-    },
-    {
-      "player_id": "9482",
-      "name": "Michael Mayer",
-      "position": "TE",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 157527
-    },
-    {
-      "player_id": "6650",
-      "name": "Chase McLaughlin",
-      "position": "K",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 151760
-    },
-    {
-      "player_id": "11565",
-      "name": "J.J. McCarthy",
-      "position": "QB",
       "team": "NYG",
       "injury_status": null,
-      "adds_48h": 151599
+      "adds_48h": 382184
+    },
+    {
+      "player_id": "8135",
+      "name": "Treylon Burks",
+      "position": "WR",
+      "team": "WAS",
+      "injury_status": "Questionable",
+      "adds_48h": 326256
+    },
+    {
+      "player_id": "11729",
+      "name": "Sione Vaki",
+      "position": "RB",
+      "team": "DET",
+      "injury_status": null,
+      "adds_48h": 307601
     },
     {
       "player_id": "3161",
@@ -638,15 +574,79 @@
       "position": "QB",
       "team": "MIN",
       "injury_status": null,
-      "adds_48h": 140910
+      "adds_48h": 280656
     },
     {
-      "player_id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "position": "DEF",
-      "team": "TB",
+      "player_id": "12524",
+      "name": "Shedeur Sanders",
+      "position": "QB",
+      "team": "CLE",
       "injury_status": null,
-      "adds_48h": 132565
+      "adds_48h": 243680
+    },
+    {
+      "player_id": "13414",
+      "name": "Kaelon Black",
+      "position": "RB",
+      "team": "SF",
+      "injury_status": null,
+      "adds_48h": 223132
+    },
+    {
+      "player_id": "12487",
+      "name": "Terrance Ferguson",
+      "position": "TE",
+      "team": "LAR",
+      "injury_status": "IR",
+      "adds_48h": 210256
+    },
+    {
+      "player_id": "SF",
+      "name": "San Francisco 49ers",
+      "position": "DEF",
+      "team": "SF",
+      "injury_status": null,
+      "adds_48h": 175188
+    },
+    {
+      "player_id": "13296",
+      "name": "Caleb Douglas",
+      "position": "WR",
+      "team": "MIA",
+      "injury_status": null,
+      "adds_48h": 167176
+    },
+    {
+      "player_id": "12540",
+      "name": "Chimere Dike",
+      "position": "WR",
+      "team": "TEN",
+      "injury_status": null,
+      "adds_48h": 161631
+    },
+    {
+      "player_id": "13424",
+      "name": "Seth McGowan",
+      "position": "RB",
+      "team": "IND",
+      "injury_status": null,
+      "adds_48h": 159696
+    },
+    {
+      "player_id": "9757",
+      "name": "Kendre Miller",
+      "position": "RB",
+      "team": "NO",
+      "injury_status": null,
+      "adds_48h": 158186
+    },
+    {
+      "player_id": "9482",
+      "name": "Michael Mayer",
+      "position": "TE",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 149994
     }
   ],
   "transactions": [
@@ -692,7 +692,7 @@
           "name": "Alvin Kamara",
           "position": "RB",
           "team": "NO",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "to": "Osama Bin Madden"
         }
       ],
