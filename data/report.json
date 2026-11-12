@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:14:59+00:00",
+  "generated_at": "2026-11-12T19:32:27+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 10,
@@ -32,24 +32,24 @@
         "name": "Bhayshul Tuten",
         "position": "RB",
         "team": "JAX",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 8.9
       },
       {
-        "player_id": "9493",
-        "name": "Puka Nacua",
+        "player_id": "11632",
+        "name": "Malik Nabers",
         "position": "WR",
-        "team": "LAR",
-        "injury_status": "Doubtful",
-        "points_last_week": 35.0
+        "team": "NYG",
+        "injury_status": null,
+        "points_last_week": 9.3
       },
       {
-        "player_id": "10229",
-        "name": "Rashee Rice",
+        "player_id": "8146",
+        "name": "Garrett Wilson",
         "position": "WR",
-        "team": "KC",
-        "injury_status": null,
-        "points_last_week": 9.9
+        "team": "NYJ",
+        "injury_status": "Questionable",
+        "points_last_week": 0.0
       },
       {
         "player_id": "1466",
@@ -64,16 +64,16 @@
         "name": "Woody Marks",
         "position": "RB",
         "team": "HOU",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 8.4
       },
       {
-        "player_id": "11632",
-        "name": "Malik Nabers",
+        "player_id": "10229",
+        "name": "Rashee Rice",
         "position": "WR",
-        "team": "NYG",
+        "team": "KC",
         "injury_status": null,
-        "points_last_week": 9.3
+        "points_last_week": 9.9
       },
       {
         "player_id": "13833",
@@ -98,7 +98,7 @@
         "name": "Puka Nacua",
         "position": "WR",
         "team": "LAR",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "points_last_week": 35.0
       },
       {
@@ -170,7 +170,7 @@
         "name": "Bhayshul Tuten",
         "position": "RB",
         "team": "JAX",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 8.9
       },
       {
@@ -178,7 +178,7 @@
         "name": "Woody Marks",
         "position": "RB",
         "team": "HOU",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 8.4
       },
       {
@@ -216,11 +216,11 @@
     ],
     "injured_reserve": [
       {
-        "player_id": "8146",
-        "name": "Garrett Wilson",
+        "player_id": "9493",
+        "name": "Puka Nacua",
         "position": "WR",
-        "team": "NYJ",
-        "injury_status": "Questionable"
+        "team": "LAR",
+        "injury_status": "Out"
       }
     ],
     "points_this_week": 0.0
@@ -293,7 +293,7 @@
         "name": "Harold Fannin Jr.",
         "position": "TE",
         "team": "CLE",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 12.2
       },
       {
@@ -359,7 +359,7 @@
         "name": "Harold Fannin Jr.",
         "position": "TE",
         "team": "CLE",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 12.2
       },
       {
@@ -457,36 +457,20 @@
   "free_agents_total": 3077,
   "trending_free_agents": [
     {
-      "player_id": "9502",
-      "name": "Tank Dell",
-      "position": "WR",
-      "team": "HOU",
-      "injury_status": null,
-      "adds_48h": 3631176
-    },
-    {
       "player_id": "12718",
       "name": "Konata Mumpfield",
       "position": "WR",
       "team": "LAR",
       "injury_status": null,
-      "adds_48h": 3517893
+      "adds_48h": 2642517
     },
     {
-      "player_id": "7562",
-      "name": "Tutu Atwell",
+      "player_id": "9502",
+      "name": "Tank Dell",
       "position": "WR",
-      "team": "LAR",
-      "injury_status": null,
-      "adds_48h": 1338673
-    },
-    {
-      "player_id": "2505",
-      "name": "Darren Waller",
-      "position": "TE",
-      "team": "CAR",
-      "injury_status": null,
-      "adds_48h": 1325970
+      "team": "HOU",
+      "injury_status": "Questionable",
+      "adds_48h": 2017408
     },
     {
       "player_id": "13269",
@@ -494,7 +478,23 @@
       "position": "QB",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 1293248
+      "adds_48h": 1482936
+    },
+    {
+      "player_id": "7562",
+      "name": "Tutu Atwell",
+      "position": "WR",
+      "team": "LAR",
+      "injury_status": null,
+      "adds_48h": 1438850
+    },
+    {
+      "player_id": "2505",
+      "name": "Darren Waller",
+      "position": "TE",
+      "team": "CAR",
+      "injury_status": null,
+      "adds_48h": 1212480
     },
     {
       "player_id": "12494",
@@ -502,15 +502,7 @@
       "position": "QB",
       "team": "MIA",
       "injury_status": null,
-      "adds_48h": 800812
-    },
-    {
-      "player_id": "8116",
-      "name": "Pierre Strong Jr.",
-      "position": "RB",
-      "team": "GB",
-      "injury_status": null,
-      "adds_48h": 685161
+      "adds_48h": 893404
     },
     {
       "player_id": "6427",
@@ -518,47 +510,15 @@
       "position": "WR",
       "team": "IND",
       "injury_status": null,
-      "adds_48h": 538596
+      "adds_48h": 757683
     },
     {
-      "player_id": "5995",
-      "name": "Justice Hill",
+      "player_id": "8116",
+      "name": "Pierre Strong Jr.",
       "position": "RB",
-      "team": "BAL",
+      "team": "GB",
       "injury_status": null,
-      "adds_48h": 529731
-    },
-    {
-      "player_id": "12634",
-      "name": "Jordan Watkins",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": null,
-      "adds_48h": 483364
-    },
-    {
-      "player_id": "12492",
-      "name": "Pat Bryant",
-      "position": "WR",
-      "team": "DEN",
-      "injury_status": null,
-      "adds_48h": 410624
-    },
-    {
-      "player_id": "3286",
-      "name": "Demarcus Robinson",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": null,
-      "adds_48h": 404592
-    },
-    {
-      "player_id": "96",
-      "name": "Aaron Rodgers",
-      "position": "QB",
-      "team": "PIT",
-      "injury_status": null,
-      "adds_48h": 396284
+      "adds_48h": 562257
     },
     {
       "player_id": "IND",
@@ -566,23 +526,55 @@
       "position": "DEF",
       "team": "IND",
       "injury_status": null,
-      "adds_48h": 373407
+      "adds_48h": 533730
     },
     {
-      "player_id": "13296",
-      "name": "Caleb Douglas",
+      "player_id": "5995",
+      "name": "Justice Hill",
+      "position": "RB",
+      "team": "BAL",
+      "injury_status": null,
+      "adds_48h": 506934
+    },
+    {
+      "player_id": "3286",
+      "name": "Demarcus Robinson",
       "position": "WR",
-      "team": "MIA",
+      "team": "SF",
       "injury_status": null,
-      "adds_48h": 339712
+      "adds_48h": 409812
     },
     {
-      "player_id": "12773",
-      "name": "DJ Uiagalelei",
+      "player_id": "96",
+      "name": "Aaron Rodgers",
       "position": "QB",
-      "team": "LAC",
+      "team": "PIT",
       "injury_status": null,
-      "adds_48h": 232470
+      "adds_48h": 388064
+    },
+    {
+      "player_id": "12492",
+      "name": "Pat Bryant",
+      "position": "WR",
+      "team": "DEN",
+      "injury_status": null,
+      "adds_48h": 298792
+    },
+    {
+      "player_id": "12634",
+      "name": "Jordan Watkins",
+      "position": "WR",
+      "team": "SF",
+      "injury_status": null,
+      "adds_48h": 270780
+    },
+    {
+      "player_id": "10219",
+      "name": "Chris Rodriguez Jr.",
+      "position": "RB",
+      "team": "JAX",
+      "injury_status": "Questionable",
+      "adds_48h": 250344
     },
     {
       "player_id": "5119",
@@ -590,31 +582,7 @@
       "position": "K",
       "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 221090
-    },
-    {
-      "player_id": "10219",
-      "name": "Chris Rodriguez Jr.",
-      "position": "RB",
-      "team": "JAX",
-      "injury_status": null,
-      "adds_48h": 219285
-    },
-    {
-      "player_id": "5947",
-      "name": "Jakobi Meyers",
-      "position": "WR",
-      "team": "JAX",
-      "injury_status": null,
-      "adds_48h": 218994
-    },
-    {
-      "player_id": "13424",
-      "name": "Seth McGowan",
-      "position": "RB",
-      "team": "IND",
-      "injury_status": null,
-      "adds_48h": 189040
+      "adds_48h": 241490
     },
     {
       "player_id": "3155",
@@ -622,7 +590,47 @@
       "position": "WR",
       "team": "IND",
       "injury_status": null,
-      "adds_48h": 182380
+      "adds_48h": 229500
+    },
+    {
+      "player_id": "13296",
+      "name": "Caleb Douglas",
+      "position": "WR",
+      "team": "MIA",
+      "injury_status": null,
+      "adds_48h": 218832
+    },
+    {
+      "player_id": "13333",
+      "name": "Deion Burks",
+      "position": "WR",
+      "team": "IND",
+      "injury_status": null,
+      "adds_48h": 202620
+    },
+    {
+      "player_id": "4017",
+      "name": "Deshaun Watson",
+      "position": "QB",
+      "team": "CLE",
+      "injury_status": null,
+      "adds_48h": 182680
+    },
+    {
+      "player_id": "NYG",
+      "name": "New York Giants",
+      "position": "DEF",
+      "team": "NYG",
+      "injury_status": null,
+      "adds_48h": 182188
+    },
+    {
+      "player_id": "13270",
+      "name": "CJ Daniels",
+      "position": "WR",
+      "team": "LAR",
+      "injury_status": null,
+      "adds_48h": 180752
     },
     {
       "player_id": "13337",
@@ -630,23 +638,7 @@
       "position": "RB",
       "team": "KC",
       "injury_status": null,
-      "adds_48h": 172494
-    },
-    {
-      "player_id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "position": "DEF",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 167885
-    },
-    {
-      "player_id": "1945",
-      "name": "Chris Boswell",
-      "position": "K",
-      "team": "PIT",
-      "injury_status": null,
-      "adds_48h": 154844
+      "adds_48h": 177966
     },
     {
       "player_id": "11637",
@@ -654,10 +646,76 @@
       "position": "WR",
       "team": "BUF",
       "injury_status": null,
-      "adds_48h": 146151
+      "adds_48h": 176355
+    },
+    {
+      "player_id": "5947",
+      "name": "Jakobi Meyers",
+      "position": "WR",
+      "team": "JAX",
+      "injury_status": "Questionable",
+      "adds_48h": 170262
     }
   ],
   "transactions": [
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-11-12T00:46:24.839000+00:00",
+      "teams": [
+        "Wablo"
+      ],
+      "adds": [
+        {
+          "player_id": "1945",
+          "name": "Chris Boswell",
+          "position": "K",
+          "team": "PIT",
+          "injury_status": null,
+          "to": "Wablo"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
+          "position": "RB",
+          "team": "NE",
+          "injury_status": "Out",
+          "from": "Wablo"
+        }
+      ],
+      "waiver_bid": null
+    },
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-11-11T23:37:31.131000+00:00",
+      "teams": [
+        "Njigbas in Paris"
+      ],
+      "adds": [
+        {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE",
+          "injury_status": null,
+          "to": "Njigbas in Paris"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ",
+          "injury_status": null,
+          "from": "Njigbas in Paris"
+        }
+      ],
+      "waiver_bid": null
+    },
     {
       "type": "free_agent",
       "status": "complete",
@@ -758,7 +816,7 @@
           "name": "Hunter Henry",
           "position": "TE",
           "team": "NE",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "to": "I didn’t hear the bell"
         }
       ],
