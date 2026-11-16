@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T18:29:04+00:00",
+  "generated_at": "2026-11-16T21:38:44+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 10,
@@ -56,7 +56,7 @@
         "name": "Travis Kelce",
         "position": "TE",
         "team": "KC",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 17.3
       },
       {
@@ -64,7 +64,7 @@
         "name": "Woody Marks",
         "position": "RB",
         "team": "HOU",
-        "injury_status": null,
+        "injury_status": "Out",
         "points_last_week": 8.4
       },
       {
@@ -122,7 +122,7 @@
         "name": "Travis Kelce",
         "position": "TE",
         "team": "KC",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 17.3
       },
       {
@@ -146,7 +146,7 @@
         "name": "Omar Cooper Jr.",
         "position": "WR",
         "team": "NYJ",
-        "injury_status": null,
+        "injury_status": "Out",
         "points_last_week": 13.8
       },
       {
@@ -178,7 +178,7 @@
         "name": "Woody Marks",
         "position": "RB",
         "team": "HOU",
-        "injury_status": null,
+        "injury_status": "Out",
         "points_last_week": 8.4
       },
       {
@@ -231,7 +231,7 @@
         "injury_status": "IR"
       }
     ],
-    "points_this_week": 33.1
+    "points_this_week": 125.66
   },
   "opponent": {
     "roster_id": 3,
@@ -285,7 +285,7 @@
         "name": "Brock Bowers",
         "position": "TE",
         "team": "LV",
-        "injury_status": null,
+        "injury_status": "Out",
         "points_last_week": 22.3
       },
       {
@@ -351,7 +351,7 @@
         "name": "Brock Bowers",
         "position": "TE",
         "team": "LV",
-        "injury_status": null,
+        "injury_status": "Out",
         "points_last_week": 22.3
       },
       {
@@ -460,7 +460,7 @@
         "injury_status": "IR"
       }
     ],
-    "points_this_week": 43.46
+    "points_this_week": 153.1
   },
   "free_agents_total": 3078,
   "trending_free_agents": [
@@ -470,15 +470,7 @@
       "position": "WR",
       "team": "TEN",
       "injury_status": null,
-      "adds_48h": 1078713
-    },
-    {
-      "player_id": "2505",
-      "name": "Darren Waller",
-      "position": "TE",
-      "team": "CAR",
-      "injury_status": null,
-      "adds_48h": 606978
+      "adds_48h": 706329
     },
     {
       "player_id": "5995",
@@ -486,135 +478,23 @@
       "position": "RB",
       "team": "BAL",
       "injury_status": null,
-      "adds_48h": 486864
+      "adds_48h": 602316
     },
     {
-      "player_id": "10219",
-      "name": "Chris Rodriguez Jr.",
-      "position": "RB",
-      "team": "JAX",
-      "injury_status": null,
-      "adds_48h": 325080
-    },
-    {
-      "player_id": "7562",
-      "name": "Tutu Atwell",
+      "player_id": "9754",
+      "name": "Quentin Johnston",
       "position": "WR",
-      "team": "LAR",
+      "team": "LAC",
       "injury_status": null,
-      "adds_48h": 270893
+      "adds_48h": 355012
     },
     {
-      "player_id": "13296",
-      "name": "Caleb Douglas",
-      "position": "WR",
-      "team": "MIA",
-      "injury_status": null,
-      "adds_48h": 177032
-    },
-    {
-      "player_id": "IND",
-      "name": "Indianapolis Colts",
-      "position": "DEF",
-      "team": "IND",
-      "injury_status": null,
-      "adds_48h": 161796
-    },
-    {
-      "player_id": "12499",
-      "name": "Elic Ayomanor",
-      "position": "WR",
-      "team": "TEN",
-      "injury_status": null,
-      "adds_48h": 145704
-    },
-    {
-      "player_id": "6427",
-      "name": "Ashton Dulin",
-      "position": "WR",
-      "team": "IND",
-      "injury_status": null,
-      "adds_48h": 144657
-    },
-    {
-      "player_id": "12700",
-      "name": "Gavin Bartholomew",
+      "player_id": "2505",
+      "name": "Darren Waller",
       "position": "TE",
-      "team": "MIN",
-      "injury_status": null,
-      "adds_48h": 129258
-    },
-    {
-      "player_id": "13269",
-      "name": "Fernando Mendoza",
-      "position": "QB",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 123032
-    },
-    {
-      "player_id": "8122",
-      "name": "Zonovan Knight",
-      "position": "RB",
-      "team": "ARI",
-      "injury_status": null,
-      "adds_48h": 119450
-    },
-    {
-      "player_id": "9479",
-      "name": "Darnell Washington",
-      "position": "TE",
-      "team": "PIT",
-      "injury_status": null,
-      "adds_48h": 113050
-    },
-    {
-      "player_id": "6865",
-      "name": "Colby Parkinson",
-      "position": "TE",
-      "team": "LAR",
-      "injury_status": null,
-      "adds_48h": 90648
-    },
-    {
-      "player_id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "position": "DEF",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 88785
-    },
-    {
-      "player_id": "13270",
-      "name": "CJ Daniels",
-      "position": "WR",
-      "team": "LAR",
-      "injury_status": null,
-      "adds_48h": 84960
-    },
-    {
-      "player_id": "12961",
-      "name": "Ryan Fitzgerald",
-      "position": "K",
       "team": "CAR",
       "injury_status": null,
-      "adds_48h": 80875
-    },
-    {
-      "player_id": "5119",
-      "name": "Jason Sanders",
-      "position": "K",
-      "team": "NYJ",
-      "injury_status": null,
-      "adds_48h": 77805
-    },
-    {
-      "player_id": "4017",
-      "name": "Deshaun Watson",
-      "position": "QB",
-      "team": "CLE",
-      "injury_status": null,
-      "adds_48h": 72208
+      "adds_48h": 334143
     },
     {
       "player_id": "13424",
@@ -622,23 +502,79 @@
       "position": "RB",
       "team": "IND",
       "injury_status": null,
-      "adds_48h": 69696
+      "adds_48h": 289904
     },
     {
-      "player_id": "96",
-      "name": "Aaron Rodgers",
-      "position": "QB",
-      "team": "PIT",
-      "injury_status": null,
-      "adds_48h": 68436
-    },
-    {
-      "player_id": "4177",
-      "name": "Mack Hollins",
+      "player_id": "10218",
+      "name": "Xavier Hutchinson",
       "position": "WR",
-      "team": "NE",
+      "team": "HOU",
+      "injury_status": "Questionable",
+      "adds_48h": 245910
+    },
+    {
+      "player_id": "7562",
+      "name": "Tutu Atwell",
+      "position": "WR",
+      "team": "LAR",
       "injury_status": null,
-      "adds_48h": 61242
+      "adds_48h": 222264
+    },
+    {
+      "player_id": "10219",
+      "name": "Chris Rodriguez Jr.",
+      "position": "RB",
+      "team": "JAX",
+      "injury_status": null,
+      "adds_48h": 208026
+    },
+    {
+      "player_id": "13269",
+      "name": "Fernando Mendoza",
+      "position": "QB",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 205080
+    },
+    {
+      "player_id": "9482",
+      "name": "Michael Mayer",
+      "position": "TE",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 191880
+    },
+    {
+      "player_id": "13296",
+      "name": "Caleb Douglas",
+      "position": "WR",
+      "team": "MIA",
+      "injury_status": null,
+      "adds_48h": 187944
+    },
+    {
+      "player_id": "12700",
+      "name": "Gavin Bartholomew",
+      "position": "TE",
+      "team": "MIN",
+      "injury_status": null,
+      "adds_48h": 155745
+    },
+    {
+      "player_id": "12499",
+      "name": "Elic Ayomanor",
+      "position": "WR",
+      "team": "TEN",
+      "injury_status": null,
+      "adds_48h": 143972
+    },
+    {
+      "player_id": "4017",
+      "name": "Deshaun Watson",
+      "position": "QB",
+      "team": "CLE",
+      "injury_status": null,
+      "adds_48h": 134744
     },
     {
       "player_id": "12492",
@@ -646,15 +582,15 @@
       "position": "WR",
       "team": "DEN",
       "injury_status": null,
-      "adds_48h": 58664
+      "adds_48h": 128008
     },
     {
-      "player_id": "11762",
-      "name": "Anthony Gould",
-      "position": "WR",
-      "team": "IND",
+      "player_id": "9479",
+      "name": "Darnell Washington",
+      "position": "TE",
+      "team": "PIT",
       "injury_status": null,
-      "adds_48h": 57904
+      "adds_48h": 123765
     },
     {
       "player_id": "13414",
@@ -662,7 +598,71 @@
       "position": "RB",
       "team": "SF",
       "injury_status": null,
-      "adds_48h": 51499
+      "adds_48h": 119819
+    },
+    {
+      "player_id": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "position": "DEF",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 119020
+    },
+    {
+      "player_id": "IND",
+      "name": "Indianapolis Colts",
+      "position": "DEF",
+      "team": "IND",
+      "injury_status": null,
+      "adds_48h": 113055
+    },
+    {
+      "player_id": "12961",
+      "name": "Ryan Fitzgerald",
+      "position": "K",
+      "team": "CAR",
+      "injury_status": null,
+      "adds_48h": 90990
+    },
+    {
+      "player_id": "5119",
+      "name": "Jason Sanders",
+      "position": "K",
+      "team": "NYJ",
+      "injury_status": null,
+      "adds_48h": 79700
+    },
+    {
+      "player_id": "8122",
+      "name": "Zonovan Knight",
+      "position": "RB",
+      "team": "ARI",
+      "injury_status": null,
+      "adds_48h": 79292
+    },
+    {
+      "player_id": "4035",
+      "name": "Alvin Kamara",
+      "position": "RB",
+      "team": "NO",
+      "injury_status": null,
+      "adds_48h": 77600
+    },
+    {
+      "player_id": "96",
+      "name": "Aaron Rodgers",
+      "position": "QB",
+      "team": "PIT",
+      "injury_status": null,
+      "adds_48h": 75888
+    },
+    {
+      "player_id": "13264",
+      "name": "Dohnte Meyers",
+      "position": "WR",
+      "team": "CIN",
+      "injury_status": null,
+      "adds_48h": 74070
     }
   ],
   "transactions": [
