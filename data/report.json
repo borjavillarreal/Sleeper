@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:28:02+00:00",
+  "generated_at": "2026-11-18T19:58:46+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 11,
@@ -56,7 +56,7 @@
         "name": "Travis Kelce",
         "position": "TE",
         "team": "KC",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 5.0
       },
       {
@@ -162,7 +162,7 @@
         "name": "Woody Marks",
         "position": "RB",
         "team": "HOU",
-        "injury_status": "Out",
+        "injury_status": "Doubtful",
         "points_last_week": 7.5
       },
       {
@@ -178,7 +178,7 @@
         "name": "Travis Kelce",
         "position": "TE",
         "team": "KC",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 5.0
       },
       {
@@ -194,7 +194,7 @@
         "name": "Omar Cooper Jr.",
         "position": "WR",
         "team": "NYJ",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "points_last_week": 0.0
       },
       {
@@ -423,7 +423,7 @@
         "name": "Ladd McConkey",
         "position": "WR",
         "team": "LAC",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "points_last_week": 0.0
       },
       {
@@ -431,7 +431,7 @@
         "name": "Luther Burden III",
         "position": "WR",
         "team": "CHI",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 0.0
       },
       {
@@ -439,7 +439,7 @@
         "name": "Carnell Tate",
         "position": "WR",
         "team": "TEN",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "points_last_week": 0.0
       },
       {
@@ -465,20 +465,12 @@
   "free_agents_total": 3078,
   "trending_free_agents": [
     {
-      "player_id": "9482",
-      "name": "Michael Mayer",
-      "position": "TE",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 1329318
-    },
-    {
       "player_id": "10218",
       "name": "Xavier Hutchinson",
       "position": "WR",
       "team": "HOU",
-      "injury_status": "Questionable",
-      "adds_48h": 1152991
+      "injury_status": null,
+      "adds_48h": 2571408
     },
     {
       "player_id": "12492",
@@ -486,7 +478,7 @@
       "position": "WR",
       "team": "DEN",
       "injury_status": null,
-      "adds_48h": 618528
+      "adds_48h": 1526760
     },
     {
       "player_id": "5012",
@@ -494,47 +486,7 @@
       "position": "TE",
       "team": "BAL",
       "injury_status": null,
-      "adds_48h": 579834
-    },
-    {
-      "player_id": "5995",
-      "name": "Justice Hill",
-      "position": "RB",
-      "team": "BAL",
-      "injury_status": null,
-      "adds_48h": 430398
-    },
-    {
-      "player_id": "9754",
-      "name": "Quentin Johnston",
-      "position": "WR",
-      "team": "LAC",
-      "injury_status": null,
-      "adds_48h": 400267
-    },
-    {
-      "player_id": "11563",
-      "name": "Bo Nix",
-      "position": "QB",
-      "team": "DEN",
-      "injury_status": null,
-      "adds_48h": 294648
-    },
-    {
-      "player_id": "6650",
-      "name": "Chase McLaughlin",
-      "position": "K",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 287696
-    },
-    {
-      "player_id": "13414",
-      "name": "Kaelon Black",
-      "position": "RB",
-      "team": "SF",
-      "injury_status": null,
-      "adds_48h": 280273
+      "adds_48h": 1420011
     },
     {
       "player_id": "12499",
@@ -542,7 +494,39 @@
       "position": "WR",
       "team": "TEN",
       "injury_status": null,
-      "adds_48h": 278576
+      "adds_48h": 1038188
+    },
+    {
+      "player_id": "11563",
+      "name": "Bo Nix",
+      "position": "QB",
+      "team": "DEN",
+      "injury_status": null,
+      "adds_48h": 635328
+    },
+    {
+      "player_id": "6650",
+      "name": "Chase McLaughlin",
+      "position": "K",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 521368
+    },
+    {
+      "player_id": "12540",
+      "name": "Chimere Dike",
+      "position": "WR",
+      "team": "TEN",
+      "injury_status": null,
+      "adds_48h": 457722
+    },
+    {
+      "player_id": "5995",
+      "name": "Justice Hill",
+      "position": "RB",
+      "team": "BAL",
+      "injury_status": null,
+      "adds_48h": 442296
     },
     {
       "player_id": "13296",
@@ -550,47 +534,7 @@
       "position": "WR",
       "team": "MIA",
       "injury_status": null,
-      "adds_48h": 238488
-    },
-    {
-      "player_id": "12700",
-      "name": "Gavin Bartholomew",
-      "position": "TE",
-      "team": "MIN",
-      "injury_status": null,
-      "adds_48h": 206577
-    },
-    {
-      "player_id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "position": "DEF",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 203810
-    },
-    {
-      "player_id": "13269",
-      "name": "Fernando Mendoza",
-      "position": "QB",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 175592
-    },
-    {
-      "player_id": "4017",
-      "name": "Deshaun Watson",
-      "position": "QB",
-      "team": "CLE",
-      "injury_status": null,
-      "adds_48h": 169776
-    },
-    {
-      "player_id": "2505",
-      "name": "Darren Waller",
-      "position": "TE",
-      "team": "CAR",
-      "injury_status": null,
-      "adds_48h": 165573
+      "adds_48h": 420184
     },
     {
       "player_id": "11625",
@@ -598,7 +542,7 @@
       "position": "WR",
       "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 150024
+      "adds_48h": 358824
     },
     {
       "player_id": "5045",
@@ -606,39 +550,31 @@
       "position": "WR",
       "team": "DEN",
       "injury_status": null,
-      "adds_48h": 128403
+      "adds_48h": 357462
     },
     {
-      "player_id": "PIT",
-      "name": "Pittsburgh Steelers",
+      "player_id": "12700",
+      "name": "Gavin Bartholomew",
+      "position": "TE",
+      "team": "MIN",
+      "injury_status": null,
+      "adds_48h": 355806
+    },
+    {
+      "player_id": "TB",
+      "name": "Tampa Bay Buccaneers",
       "position": "DEF",
-      "team": "PIT",
+      "team": "TB",
       "injury_status": null,
-      "adds_48h": 120489
+      "adds_48h": 351455
     },
     {
-      "player_id": "5119",
-      "name": "Jason Sanders",
-      "position": "K",
-      "team": "NYJ",
+      "player_id": "2505",
+      "name": "Darren Waller",
+      "position": "TE",
+      "team": "CAR",
       "injury_status": null,
-      "adds_48h": 106940
-    },
-    {
-      "player_id": "12509",
-      "name": "Tre' Harris",
-      "position": "WR",
-      "team": "LAC",
-      "injury_status": null,
-      "adds_48h": 102132
-    },
-    {
-      "player_id": "13264",
-      "name": "Dohnte Meyers",
-      "position": "WR",
-      "team": "CIN",
-      "injury_status": null,
-      "adds_48h": 92853
+      "adds_48h": 309393
     },
     {
       "player_id": "4147",
@@ -646,15 +582,55 @@
       "position": "RB",
       "team": "CIN",
       "injury_status": null,
-      "adds_48h": 86684
+      "adds_48h": 224456
     },
     {
-      "player_id": "7562",
-      "name": "Tutu Atwell",
-      "position": "WR",
-      "team": "LAR",
+      "player_id": "5119",
+      "name": "Jason Sanders",
+      "position": "K",
+      "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 83293
+      "adds_48h": 209005
+    },
+    {
+      "player_id": "11637",
+      "name": "Keon Coleman",
+      "position": "WR",
+      "team": "BUF",
+      "injury_status": null,
+      "adds_48h": 169704
+    },
+    {
+      "player_id": "4017",
+      "name": "Deshaun Watson",
+      "position": "QB",
+      "team": "CLE",
+      "injury_status": null,
+      "adds_48h": 163448
+    },
+    {
+      "player_id": "13269",
+      "name": "Fernando Mendoza",
+      "position": "QB",
+      "team": "LV",
+      "injury_status": null,
+      "adds_48h": 157872
+    },
+    {
+      "player_id": "12509",
+      "name": "Tre' Harris",
+      "position": "WR",
+      "team": "LAC",
+      "injury_status": null,
+      "adds_48h": 141416
+    },
+    {
+      "player_id": "6528",
+      "name": "Joey Slye",
+      "position": "K",
+      "team": "TEN",
+      "injury_status": null,
+      "adds_48h": 133596
     },
     {
       "player_id": "96",
@@ -662,10 +638,121 @@
       "position": "QB",
       "team": "PIT",
       "injury_status": null,
-      "adds_48h": 75460
+      "adds_48h": 130652
+    },
+    {
+      "player_id": "11557",
+      "name": "Joe Milton",
+      "position": "QB",
+      "team": "PHI",
+      "injury_status": null,
+      "adds_48h": 128252
+    },
+    {
+      "player_id": "DEN",
+      "name": "Denver Broncos",
+      "position": "DEF",
+      "team": "DEN",
+      "injury_status": null,
+      "adds_48h": 124076
+    },
+    {
+      "player_id": "13425",
+      "name": "Jalon Daniels",
+      "position": "QB",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 119886
     }
   ],
   "transactions": [
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-11-18T10:46:29.608000+00:00",
+      "teams": [
+        "Njigbas in Paris"
+      ],
+      "adds": [
+        {
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF",
+          "injury_status": null,
+          "to": "Njigbas in Paris"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI",
+          "injury_status": null,
+          "from": "Njigbas in Paris"
+        }
+      ],
+      "waiver_bid": null
+    },
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-11-18T01:38:35.103000+00:00",
+      "teams": [
+        "I didn’t hear the bell"
+      ],
+      "adds": [
+        {
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV",
+          "injury_status": null,
+          "to": "I didn’t hear the bell"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9484",
+          "name": "Tucker Kraft",
+          "position": "TE",
+          "team": "GB",
+          "injury_status": null,
+          "from": "I didn’t hear the bell"
+        }
+      ],
+      "waiver_bid": null
+    },
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-11-18T00:56:44.046000+00:00",
+      "teams": [
+        "MOST FEARED"
+      ],
+      "adds": [
+        {
+          "player_id": "PIT",
+          "name": "Pittsburgh Steelers",
+          "position": "DEF",
+          "team": "PIT",
+          "injury_status": null,
+          "to": "MOST FEARED"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "GB",
+          "name": "Green Bay Packers",
+          "position": "DEF",
+          "team": "GB",
+          "injury_status": null,
+          "from": "MOST FEARED"
+        }
+      ],
+      "waiver_bid": null
+    },
     {
       "type": "free_agent",
       "status": "complete",
