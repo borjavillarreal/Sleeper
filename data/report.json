@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:37:28+00:00",
+  "generated_at": "2026-11-21T18:41:52+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 11,
@@ -32,7 +32,7 @@
         "name": "Bhayshul Tuten",
         "position": "RB",
         "team": "JAX",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 20.3
       },
       {
@@ -106,7 +106,7 @@
         "name": "Bhayshul Tuten",
         "position": "RB",
         "team": "JAX",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 20.3
       },
       {
@@ -253,7 +253,7 @@
         "name": "Rachaad White",
         "position": "RB",
         "team": "WAS",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 6.2
       },
       {
@@ -293,7 +293,7 @@
         "name": "Jordyn Tyson",
         "position": "WR",
         "team": "NO",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 19.0
       },
       {
@@ -301,7 +301,7 @@
         "name": "Jakobi Meyers",
         "position": "WR",
         "team": "JAX",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 6.4
       },
       {
@@ -351,7 +351,7 @@
         "name": "Jordyn Tyson",
         "position": "WR",
         "team": "NO",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 19.0
       },
       {
@@ -383,7 +383,7 @@
         "name": "Jakobi Meyers",
         "position": "WR",
         "team": "JAX",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 6.4
       },
       {
@@ -399,7 +399,7 @@
         "name": "Rachaad White",
         "position": "RB",
         "team": "WAS",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 6.2
       },
       {
@@ -470,31 +470,7 @@
       "position": "WR",
       "team": "TEN",
       "injury_status": null,
-      "adds_48h": 805140
-    },
-    {
-      "player_id": "12492",
-      "name": "Pat Bryant",
-      "position": "WR",
-      "team": "DEN",
-      "injury_status": null,
-      "adds_48h": 469552
-    },
-    {
-      "player_id": "5012",
-      "name": "Mark Andrews",
-      "position": "TE",
-      "team": "BAL",
-      "injury_status": null,
-      "adds_48h": 409068
-    },
-    {
-      "player_id": "13424",
-      "name": "Seth McGowan",
-      "position": "RB",
-      "team": "IND",
-      "injury_status": "Out",
-      "adds_48h": 378264
+      "adds_48h": 663561
     },
     {
       "player_id": "5995",
@@ -502,55 +478,31 @@
       "position": "RB",
       "team": "BAL",
       "injury_status": null,
-      "adds_48h": 341613
+      "adds_48h": 334386
     },
     {
-      "player_id": "6650",
-      "name": "Chase McLaughlin",
-      "position": "K",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 263000
-    },
-    {
-      "player_id": "11563",
-      "name": "Bo Nix",
-      "position": "QB",
+      "player_id": "12492",
+      "name": "Pat Bryant",
+      "position": "WR",
       "team": "DEN",
       "injury_status": null,
-      "adds_48h": 259410
+      "adds_48h": 301256
+    },
+    {
+      "player_id": "5012",
+      "name": "Mark Andrews",
+      "position": "TE",
+      "team": "BAL",
+      "injury_status": null,
+      "adds_48h": 281448
     },
     {
       "player_id": "10219",
       "name": "Chris Rodriguez Jr.",
       "position": "RB",
       "team": "JAX",
-      "injury_status": "Questionable",
-      "adds_48h": 240120
-    },
-    {
-      "player_id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "position": "DEF",
-      "team": "TB",
       "injury_status": null,
-      "adds_48h": 216545
-    },
-    {
-      "player_id": "4147",
-      "name": "Samaje Perine",
-      "position": "RB",
-      "team": "CIN",
-      "injury_status": null,
-      "adds_48h": 203900
-    },
-    {
-      "player_id": "5045",
-      "name": "Courtland Sutton",
-      "position": "WR",
-      "team": "DEN",
-      "injury_status": null,
-      "adds_48h": 198342
+      "adds_48h": 279846
     },
     {
       "player_id": "11625",
@@ -558,7 +510,55 @@
       "position": "WR",
       "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 197336
+      "adds_48h": 269184
+    },
+    {
+      "player_id": "6650",
+      "name": "Chase McLaughlin",
+      "position": "K",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 193456
+    },
+    {
+      "player_id": "11563",
+      "name": "Bo Nix",
+      "position": "QB",
+      "team": "DEN",
+      "injury_status": null,
+      "adds_48h": 158724
+    },
+    {
+      "player_id": "13424",
+      "name": "Seth McGowan",
+      "position": "RB",
+      "team": "IND",
+      "injury_status": "Out",
+      "adds_48h": 156624
+    },
+    {
+      "player_id": "4147",
+      "name": "Samaje Perine",
+      "position": "RB",
+      "team": "CIN",
+      "injury_status": null,
+      "adds_48h": 149596
+    },
+    {
+      "player_id": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "position": "DEF",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 145605
+    },
+    {
+      "player_id": "5045",
+      "name": "Courtland Sutton",
+      "position": "WR",
+      "team": "DEN",
+      "injury_status": null,
+      "adds_48h": 135873
     },
     {
       "player_id": "12700",
@@ -566,23 +566,7 @@
       "position": "TE",
       "team": "MIN",
       "injury_status": null,
-      "adds_48h": 190791
-    },
-    {
-      "player_id": "5119",
-      "name": "Jason Sanders",
-      "position": "K",
-      "team": "NYJ",
-      "injury_status": null,
-      "adds_48h": 172685
-    },
-    {
-      "player_id": "13269",
-      "name": "Fernando Mendoza",
-      "position": "QB",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 149640
+      "adds_48h": 132048
     },
     {
       "player_id": "2505",
@@ -590,39 +574,23 @@
       "position": "TE",
       "team": "CAR",
       "injury_status": "Questionable",
-      "adds_48h": 140166
+      "adds_48h": 124353
     },
     {
-      "player_id": "96",
-      "name": "Aaron Rodgers",
+      "player_id": "13269",
+      "name": "Fernando Mendoza",
       "position": "QB",
-      "team": "PIT",
+      "team": "LV",
       "injury_status": null,
-      "adds_48h": 118868
+      "adds_48h": 118968
     },
     {
-      "player_id": "SF",
-      "name": "San Francisco 49ers",
-      "position": "DEF",
-      "team": "SF",
+      "player_id": "5119",
+      "name": "Jason Sanders",
+      "position": "K",
+      "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 113256
-    },
-    {
-      "player_id": "11637",
-      "name": "Keon Coleman",
-      "position": "WR",
-      "team": "BUF",
-      "injury_status": null,
-      "adds_48h": 112302
-    },
-    {
-      "player_id": "13296",
-      "name": "Caleb Douglas",
-      "position": "WR",
-      "team": "MIA",
-      "injury_status": "Questionable",
-      "adds_48h": 103304
+      "adds_48h": 115370
     },
     {
       "player_id": "12502",
@@ -630,15 +598,47 @@
       "position": "TE",
       "team": "TEN",
       "injury_status": null,
-      "adds_48h": 90573
+      "adds_48h": 90209
     },
     {
-      "player_id": "CAR",
-      "name": "Carolina Panthers",
+      "player_id": "SF",
+      "name": "San Francisco 49ers",
       "position": "DEF",
-      "team": "CAR",
+      "team": "SF",
       "injury_status": null,
-      "adds_48h": 82665
+      "adds_48h": 88329
+    },
+    {
+      "player_id": "13296",
+      "name": "Caleb Douglas",
+      "position": "WR",
+      "team": "MIA",
+      "injury_status": null,
+      "adds_48h": 80008
+    },
+    {
+      "player_id": "11637",
+      "name": "Keon Coleman",
+      "position": "WR",
+      "team": "BUF",
+      "injury_status": null,
+      "adds_48h": 79425
+    },
+    {
+      "player_id": "96",
+      "name": "Aaron Rodgers",
+      "position": "QB",
+      "team": "PIT",
+      "injury_status": null,
+      "adds_48h": 78784
+    },
+    {
+      "player_id": "5906",
+      "name": "Dawson Knox",
+      "position": "TE",
+      "team": "BUF",
+      "injury_status": null,
+      "adds_48h": 73308
     },
     {
       "player_id": "11557",
@@ -646,23 +646,23 @@
       "position": "QB",
       "team": "PHI",
       "injury_status": null,
-      "adds_48h": 76228
+      "adds_48h": 61512
     },
     {
-      "player_id": "8135",
-      "name": "Treylon Burks",
-      "position": "WR",
-      "team": "WAS",
-      "injury_status": null,
-      "adds_48h": 61516
+      "player_id": "12487",
+      "name": "Terrance Ferguson",
+      "position": "TE",
+      "team": "LAR",
+      "injury_status": "IR",
+      "adds_48h": 60296
     },
     {
-      "player_id": "13968",
-      "name": "Drew Stevens",
-      "position": "K",
-      "team": "WAS",
+      "player_id": "CAR",
+      "name": "Carolina Panthers",
+      "position": "DEF",
+      "team": "CAR",
       "injury_status": null,
-      "adds_48h": 52062
+      "adds_48h": 54869
     }
   ],
   "transactions": [
