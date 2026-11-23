@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:01:47+00:00",
+  "generated_at": "2026-11-23T23:23:34+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 11,
@@ -24,7 +24,7 @@
         "name": "Derrick Henry",
         "position": "RB",
         "team": "BAL",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 19.0
       },
       {
@@ -32,7 +32,7 @@
         "name": "Bhayshul Tuten",
         "position": "RB",
         "team": "JAX",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 20.3
       },
       {
@@ -106,7 +106,7 @@
         "name": "Bhayshul Tuten",
         "position": "RB",
         "team": "JAX",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 20.3
       },
       {
@@ -114,7 +114,7 @@
         "name": "Derrick Henry",
         "position": "RB",
         "team": "BAL",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "points_last_week": 19.0
       },
       {
@@ -231,7 +231,7 @@
         "injury_status": "IR"
       }
     ],
-    "points_this_week": 39.9
+    "points_this_week": 177.6
   },
   "opponent": {
     "roster_id": 10,
@@ -423,7 +423,7 @@
         "name": "Ladd McConkey",
         "position": "WR",
         "team": "LAC",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "points_last_week": 0.0
       },
       {
@@ -460,17 +460,25 @@
         "injury_status": "IR"
       }
     ],
-    "points_this_week": 66.96
+    "points_this_week": 122.06
   },
   "free_agents_total": 3078,
   "trending_free_agents": [
+    {
+      "player_id": "5995",
+      "name": "Justice Hill",
+      "position": "RB",
+      "team": "BAL",
+      "injury_status": null,
+      "adds_48h": 502767
+    },
     {
       "player_id": "12540",
       "name": "Chimere Dike",
       "position": "WR",
       "team": "TEN",
       "injury_status": null,
-      "adds_48h": 615033
+      "adds_48h": 466902
     },
     {
       "player_id": "5906",
@@ -478,7 +486,7 @@
       "position": "TE",
       "team": "BUF",
       "injury_status": null,
-      "adds_48h": 488256
+      "adds_48h": 427974
     },
     {
       "player_id": "11625",
@@ -486,79 +494,7 @@
       "position": "WR",
       "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 419288
-    },
-    {
-      "player_id": "5995",
-      "name": "Justice Hill",
-      "position": "RB",
-      "team": "BAL",
-      "injury_status": null,
-      "adds_48h": 397692
-    },
-    {
-      "player_id": "5012",
-      "name": "Mark Andrews",
-      "position": "TE",
-      "team": "BAL",
-      "injury_status": null,
-      "adds_48h": 240975
-    },
-    {
-      "player_id": "11630",
-      "name": "Roman Wilson",
-      "position": "WR",
-      "team": "PIT",
-      "injury_status": null,
-      "adds_48h": 220554
-    },
-    {
-      "player_id": "12492",
-      "name": "Pat Bryant",
-      "position": "WR",
-      "team": "DEN",
-      "injury_status": null,
-      "adds_48h": 218256
-    },
-    {
-      "player_id": "2505",
-      "name": "Darren Waller",
-      "position": "TE",
-      "team": "CAR",
-      "injury_status": null,
-      "adds_48h": 191151
-    },
-    {
-      "player_id": "6650",
-      "name": "Chase McLaughlin",
-      "position": "K",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 189144
-    },
-    {
-      "player_id": "4147",
-      "name": "Samaje Perine",
-      "position": "RB",
-      "team": "CIN",
-      "injury_status": null,
-      "adds_48h": 164840
-    },
-    {
-      "player_id": "12498",
-      "name": "Mason Taylor",
-      "position": "TE",
-      "team": "NYJ",
-      "injury_status": null,
-      "adds_48h": 134570
-    },
-    {
-      "player_id": "12502",
-      "name": "Gunnar Helm",
-      "position": "TE",
-      "team": "TEN",
-      "injury_status": null,
-      "adds_48h": 134470
+      "adds_48h": 292704
     },
     {
       "player_id": "10219",
@@ -566,15 +502,23 @@
       "position": "RB",
       "team": "JAX",
       "injury_status": null,
-      "adds_48h": 114399
+      "adds_48h": 241389
     },
     {
-      "player_id": "5045",
-      "name": "Courtland Sutton",
+      "player_id": "11630",
+      "name": "Roman Wilson",
       "position": "WR",
-      "team": "DEN",
+      "team": "PIT",
       "injury_status": null,
-      "adds_48h": 107559
+      "adds_48h": 224190
+    },
+    {
+      "player_id": "12498",
+      "name": "Mason Taylor",
+      "position": "TE",
+      "team": "NYJ",
+      "injury_status": null,
+      "adds_48h": 204060
     },
     {
       "player_id": "13269",
@@ -582,47 +526,55 @@
       "position": "QB",
       "team": "LV",
       "injury_status": null,
-      "adds_48h": 104000
+      "adds_48h": 190040
     },
     {
-      "player_id": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "position": "DEF",
-      "team": "TB",
+      "player_id": "4147",
+      "name": "Samaje Perine",
+      "position": "RB",
+      "team": "CIN",
       "injury_status": null,
-      "adds_48h": 98370
+      "adds_48h": 173848
     },
     {
-      "player_id": "13296",
-      "name": "Caleb Douglas",
+      "player_id": "2505",
+      "name": "Darren Waller",
+      "position": "TE",
+      "team": "CAR",
+      "injury_status": null,
+      "adds_48h": 159660
+    },
+    {
+      "player_id": "12492",
+      "name": "Pat Bryant",
       "position": "WR",
-      "team": "MIA",
-      "injury_status": null,
-      "adds_48h": 93816
-    },
-    {
-      "player_id": "5119",
-      "name": "Jason Sanders",
-      "position": "K",
-      "team": "NYJ",
-      "injury_status": null,
-      "adds_48h": 93705
-    },
-    {
-      "player_id": "11563",
-      "name": "Bo Nix",
-      "position": "QB",
       "team": "DEN",
       "injury_status": null,
-      "adds_48h": 88104
+      "adds_48h": 144752
     },
     {
-      "player_id": "11637",
-      "name": "Keon Coleman",
-      "position": "WR",
-      "team": "BUF",
+      "player_id": "6650",
+      "name": "Chase McLaughlin",
+      "position": "K",
+      "team": "TB",
       "injury_status": null,
-      "adds_48h": 82440
+      "adds_48h": 141128
+    },
+    {
+      "player_id": "5012",
+      "name": "Mark Andrews",
+      "position": "TE",
+      "team": "BAL",
+      "injury_status": null,
+      "adds_48h": 134838
+    },
+    {
+      "player_id": "4066",
+      "name": "Evan Engram",
+      "position": "TE",
+      "team": "DEN",
+      "injury_status": null,
+      "adds_48h": 130688
     },
     {
       "player_id": "8135",
@@ -630,7 +582,7 @@
       "position": "WR",
       "team": "WAS",
       "injury_status": null,
-      "adds_48h": 72023
+      "adds_48h": 129178
     },
     {
       "player_id": "SF",
@@ -638,31 +590,79 @@
       "position": "DEF",
       "team": "SF",
       "injury_status": null,
-      "adds_48h": 71712
+      "adds_48h": 104631
     },
     {
-      "player_id": "12487",
-      "name": "Terrance Ferguson",
+      "player_id": "WAS",
+      "name": "Washington Commanders",
+      "position": "DEF",
+      "team": "WAS",
+      "injury_status": null,
+      "adds_48h": 103383
+    },
+    {
+      "player_id": "12502",
+      "name": "Gunnar Helm",
       "position": "TE",
-      "team": "LAR",
-      "injury_status": "IR",
-      "adds_48h": 71680
+      "team": "TEN",
+      "injury_status": null,
+      "adds_48h": 98224
     },
     {
-      "player_id": "7049",
-      "name": "Jauan Jennings",
+      "player_id": "5119",
+      "name": "Jason Sanders",
+      "position": "K",
+      "team": "NYJ",
+      "injury_status": null,
+      "adds_48h": 97375
+    },
+    {
+      "player_id": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "position": "DEF",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 88455
+    },
+    {
+      "player_id": "5045",
+      "name": "Courtland Sutton",
       "position": "WR",
-      "team": "MIN",
+      "team": "DEN",
       "injury_status": null,
-      "adds_48h": 57750
+      "adds_48h": 85824
     },
     {
-      "player_id": "260",
-      "name": "Josh Johnson",
-      "position": "QB",
-      "team": "ARI",
+      "player_id": "12483",
+      "name": "Jack Bech",
+      "position": "WR",
+      "team": "LV",
       "injury_status": null,
-      "adds_48h": 53724
+      "adds_48h": 84946
+    },
+    {
+      "player_id": "13330",
+      "name": "Kenyon Sadiq",
+      "position": "TE",
+      "team": "NYJ",
+      "injury_status": null,
+      "adds_48h": 72135
+    },
+    {
+      "player_id": "11637",
+      "name": "Keon Coleman",
+      "position": "WR",
+      "team": "BUF",
+      "injury_status": null,
+      "adds_48h": 63801
+    },
+    {
+      "player_id": "11563",
+      "name": "Bo Nix",
+      "position": "QB",
+      "team": "DEN",
+      "injury_status": null,
+      "adds_48h": 62994
     }
   ],
   "transactions": [
