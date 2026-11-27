@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:55:44+00:00",
+  "generated_at": "2026-11-27T20:41:07+00:00",
   "league_id": "1394777298468618240",
   "season": "2026",
   "week": 12,
@@ -202,7 +202,7 @@
         "name": "Omar Cooper Jr.",
         "position": "WR",
         "team": "NYJ",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "points_last_week": 0.0
       },
       {
@@ -218,7 +218,7 @@
         "name": "Jordan Addison",
         "position": "WR",
         "team": "MIN",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "points_last_week": 0.0
       }
     ],
@@ -231,7 +231,7 @@
         "injury_status": "IR"
       }
     ],
-    "points_this_week": 0.0
+    "points_this_week": 32.6
   },
   "opponent": {
     "roster_id": 1,
@@ -444,7 +444,7 @@
       }
     ],
     "injured_reserve": [],
-    "points_this_week": 93.32
+    "points_this_week": 137.52
   },
   "free_agents_total": 3079,
   "trending_free_agents": [
@@ -454,7 +454,15 @@
       "position": "DEF",
       "team": "CLE",
       "injury_status": null,
-      "adds_48h": 706748
+      "adds_48h": 317555
+    },
+    {
+      "player_id": "13322",
+      "name": "Sam Roush",
+      "position": "TE",
+      "team": "CHI",
+      "injury_status": null,
+      "adds_48h": 242305
     },
     {
       "player_id": "5995",
@@ -462,55 +470,7 @@
       "position": "RB",
       "team": "BAL",
       "injury_status": null,
-      "adds_48h": 687069
-    },
-    {
-      "player_id": "NYG",
-      "name": "New York Giants",
-      "position": "DEF",
-      "team": "NYG",
-      "injury_status": null,
-      "adds_48h": 659336
-    },
-    {
-      "player_id": "12540",
-      "name": "Chimere Dike",
-      "position": "WR",
-      "team": "TEN",
-      "injury_status": null,
-      "adds_48h": 560043
-    },
-    {
-      "player_id": "4147",
-      "name": "Samaje Perine",
-      "position": "RB",
-      "team": "CIN",
-      "injury_status": null,
-      "adds_48h": 450616
-    },
-    {
-      "player_id": "13317",
-      "name": "Ted Hurst III",
-      "position": "WR",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 394218
-    },
-    {
-      "player_id": "3271",
-      "name": "Tyler Higbee",
-      "position": "TE",
-      "team": "LAR",
-      "injury_status": "Out",
-      "adds_48h": 381348
-    },
-    {
-      "player_id": "13269",
-      "name": "Fernando Mendoza",
-      "position": "QB",
-      "team": "LV",
-      "injury_status": null,
-      "adds_48h": 367296
+      "adds_48h": 232677
     },
     {
       "player_id": "NE",
@@ -518,23 +478,23 @@
       "position": "DEF",
       "team": "NE",
       "injury_status": null,
-      "adds_48h": 366023
+      "adds_48h": 223958
     },
     {
-      "player_id": "12496",
-      "name": "Tai Felton",
+      "player_id": "11631",
+      "name": "Brian Thomas Jr.",
       "position": "WR",
-      "team": "MIN",
+      "team": "JAX",
       "injury_status": null,
-      "adds_48h": 334356
+      "adds_48h": 209500
     },
     {
-      "player_id": "4972",
-      "name": "Mason Rudolph",
-      "position": "QB",
-      "team": "PIT",
+      "player_id": "12540",
+      "name": "Chimere Dike",
+      "position": "WR",
+      "team": "TEN",
       "injury_status": null,
-      "adds_48h": 325166
+      "adds_48h": 205713
     },
     {
       "player_id": "1373",
@@ -542,63 +502,39 @@
       "position": "QB",
       "team": "NYJ",
       "injury_status": null,
-      "adds_48h": 295220
+      "adds_48h": 200356
     },
     {
-      "player_id": "12483",
-      "name": "Jack Bech",
-      "position": "WR",
-      "team": "LV",
+      "player_id": "4147",
+      "name": "Samaje Perine",
+      "position": "RB",
+      "team": "CIN",
       "injury_status": null,
-      "adds_48h": 236016
+      "adds_48h": 187508
     },
     {
-      "player_id": "4066",
-      "name": "Evan Engram",
-      "position": "TE",
-      "team": "DEN",
-      "injury_status": null,
-      "adds_48h": 209040
-    },
-    {
-      "player_id": "5119",
-      "name": "Jason Sanders",
-      "position": "K",
-      "team": "NYJ",
-      "injury_status": null,
-      "adds_48h": 198485
-    },
-    {
-      "player_id": "11565",
-      "name": "J.J. McCarthy",
+      "player_id": "11557",
+      "name": "Joe Milton",
       "position": "QB",
+      "team": "PHI",
+      "injury_status": null,
+      "adds_48h": 184308
+    },
+    {
+      "player_id": "13394",
+      "name": "Josh Cameron",
+      "position": "WR",
+      "team": "JAX",
+      "injury_status": null,
+      "adds_48h": 181386
+    },
+    {
+      "player_id": "NYG",
+      "name": "New York Giants",
+      "position": "DEF",
       "team": "NYG",
       "injury_status": null,
-      "adds_48h": 159111
-    },
-    {
-      "player_id": "2505",
-      "name": "Darren Waller",
-      "position": "TE",
-      "team": "CAR",
-      "injury_status": null,
-      "adds_48h": 151956
-    },
-    {
-      "player_id": "6650",
-      "name": "Chase McLaughlin",
-      "position": "K",
-      "team": "TB",
-      "injury_status": null,
-      "adds_48h": 141544
-    },
-    {
-      "player_id": "NYJ",
-      "name": "New York Jets",
-      "position": "DEF",
-      "team": "NYJ",
-      "injury_status": null,
-      "adds_48h": 122304
+      "adds_48h": 169648
     },
     {
       "player_id": "5947",
@@ -606,39 +542,87 @@
       "position": "WR",
       "team": "JAX",
       "injury_status": "Questionable",
-      "adds_48h": 114516
+      "adds_48h": 168486
     },
     {
-      "player_id": "12773",
-      "name": "DJ Uiagalelei",
+      "player_id": "4066",
+      "name": "Evan Engram",
+      "position": "TE",
+      "team": "DEN",
+      "injury_status": null,
+      "adds_48h": 164272
+    },
+    {
+      "player_id": "13269",
+      "name": "Fernando Mendoza",
       "position": "QB",
-      "team": "LAC",
+      "team": "LV",
       "injury_status": null,
-      "adds_48h": 108216
+      "adds_48h": 143952
     },
     {
-      "player_id": "11834",
-      "name": "Devaughn Vele",
+      "player_id": "13317",
+      "name": "Ted Hurst III",
       "position": "WR",
-      "team": "NO",
+      "team": "TB",
       "injury_status": null,
-      "adds_48h": 106701
+      "adds_48h": 124272
     },
     {
-      "player_id": "12491",
-      "name": "Corey Kiner",
-      "position": "RB",
+      "player_id": "2505",
+      "name": "Darren Waller",
+      "position": "TE",
+      "team": "CAR",
+      "injury_status": "Questionable",
+      "adds_48h": 104499
+    },
+    {
+      "player_id": "11565",
+      "name": "J.J. McCarthy",
+      "position": "QB",
+      "team": "NYG",
+      "injury_status": null,
+      "adds_48h": 96927
+    },
+    {
+      "player_id": "5119",
+      "name": "Jason Sanders",
+      "position": "K",
+      "team": "NYJ",
+      "injury_status": null,
+      "adds_48h": 94820
+    },
+    {
+      "player_id": "12496",
+      "name": "Tai Felton",
+      "position": "WR",
+      "team": "MIN",
+      "injury_status": null,
+      "adds_48h": 91986
+    },
+    {
+      "player_id": "4972",
+      "name": "Mason Rudolph",
+      "position": "QB",
+      "team": "PIT",
+      "injury_status": null,
+      "adds_48h": 80248
+    },
+    {
+      "player_id": "6650",
+      "name": "Chase McLaughlin",
+      "position": "K",
+      "team": "TB",
+      "injury_status": null,
+      "adds_48h": 72328
+    },
+    {
+      "player_id": "4177",
+      "name": "Mack Hollins",
+      "position": "WR",
       "team": "NE",
       "injury_status": null,
-      "adds_48h": 104598
-    },
-    {
-      "player_id": "13968",
-      "name": "Drew Stevens",
-      "position": "K",
-      "team": "WAS",
-      "injury_status": null,
-      "adds_48h": 96562
+      "adds_48h": 64062
     },
     {
       "player_id": "13296",
@@ -646,10 +630,55 @@
       "position": "WR",
       "team": "MIA",
       "injury_status": null,
-      "adds_48h": 95120
+      "adds_48h": 59248
+    },
+    {
+      "player_id": "3271",
+      "name": "Tyler Higbee",
+      "position": "TE",
+      "team": "LAR",
+      "injury_status": "Out",
+      "adds_48h": 59202
+    },
+    {
+      "player_id": "12491",
+      "name": "Corey Kiner",
+      "position": "RB",
+      "team": "NE",
+      "injury_status": null,
+      "adds_48h": 57150
     }
   ],
   "transactions": [
+    {
+      "type": "free_agent",
+      "status": "complete",
+      "created": "2026-11-27T14:46:04.803000+00:00",
+      "teams": [
+        "I didn’t hear the bell"
+      ],
+      "adds": [
+        {
+          "player_id": "5001",
+          "name": "Dalton Schultz",
+          "position": "TE",
+          "team": "HOU",
+          "injury_status": "Questionable",
+          "to": "I didn’t hear the bell"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV",
+          "injury_status": null,
+          "from": "I didn’t hear the bell"
+        }
+      ],
+      "waiver_bid": null
+    },
     {
       "type": "free_agent",
       "status": "complete",
